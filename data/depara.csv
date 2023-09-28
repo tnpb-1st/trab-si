@@ -1,0 +1,186 @@
+,nome_municipio,id_municipio
+0,Abreu e Lima,2600054
+1,Afogados da Ingazeira,2600104
+2,Afrânio,2600203
+3,Agrestina,2600302
+4,Água Preta,2600401
+5,Águas Belas,2600500
+6,Alagoinha,2600609
+7,Aliança,2600708
+8,Altinho,2600807
+9,Amaraji,2600906
+10,Angelim,2601003
+11,Araçoiaba,2601052
+12,Araripina,2601102
+13,Arcoverde,2601201
+14,Barra de Guabiraba,2601300
+15,Barreiros,2601409
+16,Belém de Maria,2601508
+17,Belém de São Francisco,2601607
+18,Belo Jardim,2601706
+19,Betânia,2601805
+20,Bezerros,2601904
+21,Bodocó,2602001
+22,Bom Conselho,2602100
+23,Bom Jardim,2602209
+24,Bonito,2602308
+25,Brejão,2602407
+26,Brejinho,2602506
+27,Brejo da Madre de Deus,2602605
+28,Buenos Aires,2602704
+29,Buíque,2602803
+30,Cabo de Santo Agostinho,2602902
+31,Cabrobó,2603009
+32,Cachoeirinha,2603108
+33,Caetés,2603207
+34,Calçado,2603306
+35,Calumbi,2603405
+36,Camaragibe,2603454
+37,Camocim de São Félix,2603504
+38,Camutanga,2603603
+39,Canhotinho,2603702
+40,Capoeiras,2603801
+41,Carnaíba,2603900
+42,Carnaubeira da Penha,2603926
+43,Carpina,2604007
+44,Caruaru,2604106
+45,Casinhas,2604155
+46,Catende,2604205
+47,Cedro,2604304
+48,Chã de Alegria,2604403
+49,Chã Grande,2604502
+50,Condado,2604601
+51,Correntes,2604700
+52,Cortês,2604809
+53,Cumaru,2604908
+54,Cupira,2605004
+55,Custódia,2605103
+56,Dormentes,2605152
+57,Escada,2605202
+58,Exu,2605301
+59,Feira Nova,2605400
+60,Fernando de Noronha,2605459
+61,Ferreiros,2605509
+62,Flores,2605608
+63,Floresta,2605707
+64,Frei Miguelinho,2605806
+65,Gameleira,2605905
+66,Garanhuns,2606002
+67,Glória do Goitá,2606101
+68,Goiana,2606200
+69,Granito,2606309
+70,Gravatá,2606408
+71,Iati,2606507
+72,Ibimirim,2606606
+73,Ibirajuba,2606705
+74,Igarassu,2606804
+75,Iguaraci,2606903
+76,Inajá,2607000
+77,Ingazeira,2607109
+78,Ipojuca,2607208
+79,Ipubi,2607307
+80,Itacuruba,2607406
+81,Itaíba,2607505
+82,Ilha de Itamaracá,2607604
+83,Itambé,2607653
+84,Itapetim,2607703
+85,Itapissuma,2607752
+86,Itaquitinga,2607802
+87,Jaboatão dos Guararapes,2607901
+88,Jaqueira,2607950
+89,Jataúba,2608008
+90,Jatobá,2608057
+91,João Alfredo,2608107
+92,Joaquim Nabuco,2608206
+93,Jucati,2608255
+94,Jupi,2608305
+95,Jurema,2608404
+96,Lagoa do Carro,2608453
+97,Lagoa do Itaenga,2608503
+98,Lagoa do Ouro,2608602
+99,Lagoa dos Gatos,2608701
+100,Lagoa Grande,2608750
+101,Lajedo,2608800
+102,Limoeiro,2608909
+103,Macaparana,2609006
+104,Machados,2609105
+105,Manari,2609154
+106,Maraial,2609204
+107,Mirandiba,2609303
+108,Moreno,2609402
+109,Nazaré da Mata,2609501
+110,Olinda,2609600
+111,Orobó,2609709
+112,Orocó,2609808
+113,Ouricuri,2609907
+114,Palmares,2610004
+115,Palmeirina,2610103
+116,Panelas,2610202
+117,Paranatama,2610301
+118,Parnamirim,2610400
+119,Passira,2610509
+120,Paudalho,2610608
+121,Paulista,2610707
+122,Pedra,2610806
+123,Pesqueira,2610905
+124,Petrolândia,2611002
+125,Petrolina,2611101
+126,Poção,2611200
+127,Pombos,2611309
+128,Primavera,2611408
+129,Quipapá,2611507
+130,Quixaba,2611533
+131,Recife,2611606
+132,Riacho das Almas,2611705
+133,Ribeirão,2611804
+134,Rio Formoso,2611903
+135,Sairé,2612000
+136,Salgadinho,2612109
+137,Salgueiro,2612208
+138,Saloá,2612307
+139,Sanharó,2612406
+140,Santa Cruz,2612455
+141,Santa Cruz da Baixa Verde,2612471
+142,Santa Cruz do Capibaribe,2612505
+143,Santa Filomena,2612554
+144,Santa Maria da Boa Vista,2612604
+145,Santa Maria do Cambucá,2612703
+146,Santa Terezinha,2612802
+147,São Benedito do Sul,2612901
+148,São Bento do Una,2613008
+149,São Caitano,2613107
+150,São João,2613206
+151,São Joaquim do Monte,2613305
+152,São José da Coroa Grande,2613404
+153,São José do Belmonte,2613503
+154,São José do Egito,2613602
+155,São Lourenço da Mata,2613701
+156,São Vicente Ferrer,2613800
+157,Serra Talhada,2613909
+158,Serrita,2614006
+159,Sertânia,2614105
+160,Sirinhaém,2614204
+161,Moreilândia,2614303
+162,Solidão,2614402
+163,Surubim,2614501
+164,Tabira,2614600
+165,Tacaimbó,2614709
+166,Tacaratu,2614808
+167,Tamandaré,2614857
+168,Taquaritinga do Norte,2615003
+169,Terezinha,2615102
+170,Terra Nova,2615201
+171,Timbaúba,2615300
+172,Toritama,2615409
+173,Tracunhaém,2615508
+174,Trindade,2615607
+175,Triunfo,2615706
+176,Tupanatinga,2615805
+177,Tuparetama,2615904
+178,Venturosa,2616001
+179,Verdejante,2616100
+180,Vertente do Lério,2616183
+181,Vertentes,2616209
+182,Vicência,2616308
+183,Vitória de Santo Antão,2616407
+184,Xexéu,2616506

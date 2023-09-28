@@ -1,0 +1,1184 @@
+,id_tabela,coluna,chave,cobertura_temporal,valor
+0,leito,tipo_leito,1,(1),cirurgico
+1,leito,tipo_leito,3,(1),complementar
+2,leito,tipo_leito,7,(1),hospital dia
+3,leito,tipo_leito,2,(1),clinico
+4,leito,tipo_leito,6,(1),outras especialidades
+5,leito,tipo_leito,4,(1),obstetricos
+6,leito,tipo_leito,5,(1),pediatricos
+7,leito,tipo_especialidade_leito,48,(1),reabilitacao
+8,leito,tipo_especialidade_leito,10,(1),obstetricia cirurgica
+9,leito,tipo_especialidade_leito,38,(1),hematologia
+10,leito,tipo_especialidade_leito,45,(1),pediatria clinica
+11,leito,tipo_especialidade_leito,46,(1),pneumologia
+12,leito,tipo_especialidade_leito,77,(1),uti pediatrica - tipo i
+13,leito,tipo_especialidade_leito,35,(1),dermatologia
+14,leito,tipo_especialidade_leito,75,(1),uti adulto - tipo ii
+15,leito,tipo_especialidade_leito,80,(1),uti neonatal - tipo i
+16,leito,tipo_especialidade_leito,87,(1),saude mental
+17,leito,tipo_especialidade_leito,92,(1),unidade de cuidados intermediarios neonatal convencional
+18,leito,tipo_especialidade_leito,64,(1),unidade intermediaria
+19,leito,tipo_especialidade_leito,72,(1),geriatria
+20,leito,tipo_especialidade_leito,83,(1),uti de queimados
+21,leito,tipo_especialidade_leito,86,(1),uti coronariana tipo iii - uco tipo iii
+22,leito,tipo_especialidade_leito,66,(1),unidade isolamento
+23,leito,tipo_especialidade_leito,91,(1),queimado pediatrico
+24,leito,tipo_especialidade_leito,12,(1),oncologia
+25,leito,tipo_especialidade_leito,49,(1),pneumologia sanitaria
+26,leito,tipo_especialidade_leito,84,(1),acolhimento noturno
+27,leito,tipo_especialidade_leito,07,(1),cirurgico/diagnostico/terapeutico
+28,leito,tipo_especialidade_leito,85,(1),uti coronariana tipo ii - uco tipo ii
+29,leito,tipo_especialidade_leito,69,(1),aids
+30,leito,tipo_especialidade_leito,13,(1),ortopediatraumatologia
+31,leito,tipo_especialidade_leito,15,(1),plastica
+32,leito,tipo_especialidade_leito,41,(1),neonatologia
+33,leito,tipo_especialidade_leito,76,(1),uti adulto - tipo iii
+34,leito,tipo_especialidade_leito,02,(1),cardiologia
+35,leito,tipo_especialidade_leito,47,(1),psiquiatria
+36,leito,tipo_especialidade_leito,70,(1),fibrose cistica
+37,leito,tipo_especialidade_leito,79,(1),uti pediatrica - tipo iii
+38,leito,tipo_especialidade_leito,03,(1),cirurgia geral
+39,leito,tipo_especialidade_leito,81,(1),uti neonatal - tipo ii
+40,leito,tipo_especialidade_leito,09,(1),neurocirurgia
+41,leito,tipo_especialidade_leito,65,(1),unidade intermediaria neonatal
+42,leito,tipo_especialidade_leito,33,(1),clinica geral
+43,leito,tipo_especialidade_leito,93,(1),unidade de cuidados intermediarios neonatal canguru
+44,leito,tipo_especialidade_leito,31,(1),aids
+45,leito,tipo_especialidade_leito,74,(1),uti adulto - tipo i
+46,leito,tipo_especialidade_leito,44,(1),oncologia
+47,leito,tipo_especialidade_leito,68,(1),pediatria cirurgica
+48,leito,tipo_especialidade_leito,36,(1),geriatria
+49,leito,tipo_especialidade_leito,40,(1),nefrourologia
+50,leito,tipo_especialidade_leito,04,(1),endocrinologia
+51,leito,tipo_especialidade_leito,06,(1),ginecologia
+52,leito,tipo_especialidade_leito,42,(1),neurologia
+53,leito,tipo_especialidade_leito,16,(1),toracica
+54,leito,tipo_especialidade_leito,08,(1),nefrologiaurologia
+55,leito,tipo_especialidade_leito,90,(1),queimado adulto
+56,leito,tipo_especialidade_leito,01,(1),buco maxilo facial
+57,leito,tipo_especialidade_leito,34,(1),cronicos
+58,leito,tipo_especialidade_leito,88,(1),queimado adulto
+59,leito,tipo_especialidade_leito,94,(1),unidade de cuidados intermediarios pediatrico
+60,leito,tipo_especialidade_leito,37,(1),hansenologia
+61,leito,tipo_especialidade_leito,05,(1),gastroenterologia
+62,leito,tipo_especialidade_leito,78,(1),uti pediatrica - tipo ii
+63,leito,tipo_especialidade_leito,32,(1),cardiologia
+64,leito,tipo_especialidade_leito,67,(1),transplante
+65,leito,tipo_especialidade_leito,73,(1),saude mental
+66,leito,tipo_especialidade_leito,71,(1),intercorrencia pos-transplante
+67,leito,tipo_especialidade_leito,95,(1),unidade de cuidados intermediarios adulto
+68,leito,tipo_especialidade_leito,11,(1),oftalmologia
+69,leito,tipo_especialidade_leito,82,(1),uti neonatal - tipo iii
+70,leito,tipo_especialidade_leito,14,(1),otorrinolaringologia
+71,leito,tipo_especialidade_leito,43,(1),obstetricia clinica
+72,leito,tipo_especialidade_leito,89,(1),queimado pediatrico
+73,equipe,tipo_equipe,37,(1),esftranssb_m1 - esf transitoria com saude bucal mi
+74,equipe,tipo_equipe,53,(1),eabp2sm - eq atencao basica prisional tipo ii c saude mental
+75,equipe,tipo_equipe,14,(1),esff - equipe de saude da familia fluvial
+76,equipe,tipo_equipe,59,(1),emaesm2 - eq. multiprof. atencao espec. saude mental m ii
+77,equipe,tipo_equipe,25,(1),esf1sb_m1 - esf tipo i com saude bucal modalidade i
+78,equipe,tipo_equipe,19,(1),eab1sb - equipe de atencao basica tipo i com saude bucal
+79,equipe,tipo_equipe,21,(1),eab3sb - equipe de atencao basica tipo iii com saude bucal
+80,equipe,tipo_equipe,02,(1),esfsb_m1 - esf com saude bucal - m i
+81,equipe,tipo_equipe,51,(1),eabp1sm - eq atencao basica prisional tipo i c saude mental
+82,equipe,tipo_equipe,40,(1),ecr mi   - equipe dos consultorios na rua modalidade i
+83,equipe,tipo_equipe,41,(1),ecr mii  - equipe dos consultorios na rua modalidade ii
+84,equipe,tipo_equipe,47,(1),ecd - equipe de cuidados domiciliares
+85,equipe,tipo_equipe,43,(1),esb mi  - equipe de saude bucal modalidade i
+86,equipe,tipo_equipe,06,(1),nasf1 - nucleo de apoio a saude da familia-nasf modalidade 1
+87,equipe,tipo_equipe,18,(1),eab3 - equipe de atencao basica tipo iii
+88,equipe,tipo_equipe,26,(1),esf1sb_m2 - esf tipo i com saude bucal modalidade ii
+89,equipe,tipo_equipe,52,(1),eabp2   - eq atencao basica prisional tipo ii
+90,equipe,tipo_equipe,04,(1),eacs - equipe de agentes comunitarios de saude
+91,equipe,tipo_equipe,09,(1),emsial  eq multidisc at basica saude indigena-amazonia legal
+92,equipe,tipo_equipe,15,(1),esffsb - esf fluvial com saude bucal
+93,equipe,tipo_equipe,38,(1),esftranssb_m2 - esf transitoria com saude bucal mii
+94,equipe,tipo_equipe,20,(1),eab2sb - equipe de atencao basica tipo ii com saude bucal
+95,equipe,tipo_equipe,07,(1),nasf2 - nucleo de apoio a saude da familia-nasf modalidade 2
+96,equipe,tipo_equipe,24,(1),esf1      - estrategia de saude da familia tipo i
+97,equipe,tipo_equipe,36,(1),esftrans      - esf transitoria
+98,equipe,tipo_equipe,39,(1),esfrsb_mii - esf ribeirinha com saude bucal mii
+99,equipe,tipo_equipe,03,(1),esfsb_m2 - esf com saude bucal - m ii
+100,equipe,tipo_equipe,05,(1),epen - equipe de at. saude sist. penitenciario
+101,equipe,tipo_equipe,23,(1),emap - equipe multidisciplinar de apoio
+102,equipe,tipo_equipe,32,(1),esf3sb_m2 - esf tipo iii com saude bucal modalidade ii
+103,equipe,tipo_equipe,12,(1),esfr - equipe de saude da familia ribeirinha
+104,equipe,tipo_equipe,33,(1),esf4      - estrategia de saude da familia tipo iv
+105,equipe,tipo_equipe,50,(1),eabp1   - eq atencao basica prisional tipo i
+106,equipe,tipo_equipe,45,(1),nasf3 - nucleo de apoio a saude da familia-nasf modalidade 3
+107,equipe,tipo_equipe,34,(1),esf4sb_m1 - esf tipo iv com saude bucal modalidade i
+108,equipe,tipo_equipe,48,(1),eese - equipe exclusiva de saude na escola
+109,equipe,tipo_equipe,31,(1),esf3sb_m1 - esf tipo iii com saude bucal modalidade i
+110,equipe,tipo_equipe,29,(1),esf2sb_m2 - esf tipo ii com saude bucal modalidade ii
+111,equipe,tipo_equipe,54,(1),eabp3   - eq atencao basica prisional tipo iii
+112,equipe,tipo_equipe,58,(1),emaesm1 - eq. multiprof. atencao espec. saude mental m i
+113,equipe,tipo_equipe,42,(1),ecr miii - equipe dos consultorios na rua modalidade iii
+114,equipe,tipo_equipe,44,(1),esb mii - equipe de saude bucal modalidade ii
+115,equipe,tipo_equipe,22,(1),emad_t1 - equipe multidisciplinar atencao domiciliar tipo 1
+116,equipe,tipo_equipe,16,(1),eab1 - equipe de atencao basica tipo i
+117,equipe,tipo_equipe,46,(1),emad_t2 - equipe multidisciplinar atencao domiciliar tipo 2
+118,equipe,tipo_equipe,17,(1),eab2 - equipe de atencao basica tipo ii
+119,equipe,tipo_equipe,27,(1),esf2      - estrategia de saude da familia tipo ii
+120,equipe,tipo_equipe,60,(1),emaesm3 - eq. multiprof. atencao espec. saude mental m iii
+121,equipe,tipo_equipe,28,(1),esf2sb_m1 - esf tipo ii com saude bucal modalidade i
+122,equipe,tipo_equipe,08,(1),emsi - eq multidisc at basica saude indigena
+123,equipe,tipo_equipe,35,(1),esf4sb_m2 - esf tipo iv com saude bucal modalidade ii
+124,equipe,tipo_equipe,10,(1),eacssb_m1 - eq agentes comunitãƒâ rios com saude bucal - mi
+125,equipe,tipo_equipe,30,(1),esf3      - estrategia de saude da familia tipo iii
+126,equipe,tipo_equipe,01,(1),esf - equipe de saude da familia
+127,equipe,tipo_equipe,11,(1),eacssb_m2 - eq agentes comunitãƒâ rios com saude bucal - mii
+128,equipe,tipo_equipe,13,(1),esfrsb_mi - esf ribeirinha com saude bucal mi
+129,equipe,tipo_equipe,49,(1),eap
+130,equipe,tipo_desativacao_equipe,2,(1),definitiva
+131,equipe,tipo_desativacao_equipe,1,(1),temporaria
+132,equipe,motivo_desativacao_equipe,04,(1),dificuldade de contratacao de profissional enfermeiro
+133,equipe,motivo_desativacao_equipe,05,(1),dificuldade de contratacao de profissional cirurgiao dentista
+134,equipe,motivo_desativacao_equipe,16,(1),dificuldade de contratacao de profissional nutricionista
+135,equipe,motivo_desativacao_equipe,14,(1),dificuldade de contratacao de profissional terapeuta ocupacional
+136,equipe,motivo_desativacao_equipe,06,(1),dificuldade de contratacao de profissional de nivel medio
+137,equipe,motivo_desativacao_equipe,11,(1),dificuldade de contratacao de profissional tecnico ou auxiliar de saude bucal
+138,equipe,motivo_desativacao_equipe,13,(1),dificuldade de contratacao de profissional assistente social
+139,equipe,motivo_desativacao_equipe,03,(1),dificuldade de contratacao de profissional medico
+140,equipe,motivo_desativacao_equipe,08,(1),auditoria/supervisao
+141,equipe,motivo_desativacao_equipe,09,(1),falta equipe minima
+142,equipe,motivo_desativacao_equipe,12,(1),dificuldade de contratacao de profissional psicologo
+143,equipe,motivo_desativacao_equipe,10,(1),dificuldade de contratacao de profissional tecnico ou auxiliar de enfermagem
+144,equipe,motivo_desativacao_equipe,02,(1),reorganizacao da atencao basica
+145,equipe,motivo_desativacao_equipe,15,(1),dificuldade de contratacao de profissional fisioterapeuta
+146,equipe,motivo_desativacao_equipe,01,(1),reorganizacao da estrategia saude da familia
+147,equipe,motivo_desativacao_equipe,07,(1),problema de estrutura fisica
+148,incentivos,tipo_incentivo,2,(1),local
+149,incentivos,tipo_incentivo,1,(1),federal
+150,incentivos,tipo_habilitacao,8109,(1),upa nova habilitada
+151,incentivos,tipo_habilitacao,8259,(1),qualificacao upa 24h nova opcao vi
+152,incentivos,tipo_habilitacao,8127,(1),esp em municipios com gh = 3 e taxa de populacao prisional >10%
+153,incentivos,tipo_habilitacao,8231,(1),ceo-i   - rede de cuidados a pessoa com deficiencia
+154,incentivos,tipo_habilitacao,8263,(1),upa 24h ampliada opcao iv
+155,incentivos,tipo_habilitacao,8108,(1),upa nova qualificada
+156,incentivos,tipo_habilitacao,8122,(1),esp em municipios com gh = 2 e taxa de populacao prisional >5 a 10%
+157,incentivos,tipo_habilitacao,8120,(1),esp em municipios com gh = 2 e taxa de populacao prisional <1%
+158,incentivos,tipo_habilitacao,8225,(1),centro especializado em reabilitacao iv (cer iv)
+159,incentivos,tipo_habilitacao,8253,(1),indice de valorizacao hospitalar de emergencia (ivh-e)
+160,incentivos,tipo_habilitacao,8257,(1),qualificacao upa 24h nova opcao ii
+161,incentivos,tipo_habilitacao,8207,(1),samu 192 qualificado
+162,incentivos,tipo_habilitacao,8227,(1),residencia terapeutica tipo ii
+163,incentivos,tipo_habilitacao,8235,(1),oficina ortopedica itinerante terrestre
+164,incentivos,tipo_habilitacao,8262,(1),upa 24h ampliada opcao ii
+165,incentivos,tipo_habilitacao,8119,(1),esp em municipios com gh = 1 e taxa de populacao prisional >10%
+166,incentivos,tipo_habilitacao,8237,(1),casa da gestante
+167,incentivos,tipo_habilitacao,8103,(1),integrasus nivel c
+168,incentivos,tipo_habilitacao,8211,(1),unidade de cuidados intermediarios neonatal convencional qualificada
+169,incentivos,tipo_habilitacao,8218,(1),uti rede de urgencia e emergencia
+170,incentivos,tipo_habilitacao,8242,(1),upa 24h nova opcao v
+171,incentivos,tipo_habilitacao,8266,(1),upa 24h nova opcao i
+172,incentivos,tipo_habilitacao,8117,(1),esp em municipios com gh = 1 e taxa de populacao prisional 1 a 5%
+173,incentivos,tipo_habilitacao,8118,(1),esp em municipios com gh = 1 e taxa de populacao prisional >5 a 10%
+174,incentivos,tipo_habilitacao,8219,(1),servico de atencao domiciliar (sad)
+175,incentivos,tipo_habilitacao,8203,(1),qualificacao upa 24h nova opcao viii
+176,incentivos,tipo_habilitacao,8206,(1),upa 24h ampliada opcao viii
+177,incentivos,tipo_habilitacao,8250,(1),unidade movel de atendimento pre-hospitalar usb samu 192
+178,incentivos,tipo_habilitacao,8121,(1),esp em municipios com gh = 2 e taxa de populacao prisional 1 a 5%
+179,incentivos,tipo_habilitacao,8130,(1),esp em municipios com gh = 4 e taxa de populacao prisional >5 a 10%
+180,incentivos,tipo_habilitacao,8234,(1),oficina ortopedica fixa
+181,incentivos,tipo_habilitacao,8265,(1),upa 24h ampliada opcao vii
+182,incentivos,tipo_habilitacao,8131,(1),esp em municipios com gh = 4 e taxa de populacao prisional >10%
+183,incentivos,tipo_habilitacao,8134,(1),esp em municipios com gh = 5 e taxa de populacao prisional >5 a 10%
+184,incentivos,tipo_habilitacao,8217,(1),uti rede cegonha
+185,incentivos,tipo_habilitacao,8233,(1),ceo-iii - rede de cuidados a pessoa com deficiencia
+186,incentivos,tipo_habilitacao,8248,(1),unidade movel de atendimento pre-hospitalar motolancia samu 192
+187,incentivos,tipo_habilitacao,8249,(1),unidade movel de atendimento pre-hospitalar usa samu 192
+188,incentivos,tipo_habilitacao,8254,(1),centro de informacao e assistencia toxicologica (ciatox)
+189,incentivos,tipo_habilitacao,8113,(1),academia da saude em municipios sem nasf
+190,incentivos,tipo_habilitacao,8136,(1),esp em municipios com gh = 6 e taxa de populacao prisional <1%
+191,incentivos,tipo_habilitacao,8216,(1),enfermaria de retaguarda de longa permanencia
+192,incentivos,tipo_habilitacao,8232,(1),ceo-ii  - rede de cuidados a pessoa com deficiencia
+193,incentivos,tipo_habilitacao,8106,(1),saude do trabalhador
+194,incentivos,tipo_habilitacao,8112,(1),academia da saude em municipios com nasf
+195,incentivos,tipo_habilitacao,8214,(1),porta de entrada hospitalar de urgencia (pehu) - hospital especializado tipo ii
+196,incentivos,tipo_habilitacao,8239,(1),cerest municipal
+197,incentivos,tipo_habilitacao,8243,(1),upa 24h nova opcao viii
+198,incentivos,tipo_habilitacao,8267,(1),upa 24h nova opcao ii
+199,incentivos,tipo_habilitacao,8132,(1),esp em municipios com gh = 5 e taxa de populacao prisional <1%
+200,incentivos,tipo_habilitacao,8201,(1),qualificacao upa 24h nova opcao iii
+201,incentivos,tipo_habilitacao,8224,(1),centro especializado em reabilitacao iii (cer iii)
+202,incentivos,tipo_habilitacao,8256,(1),qualificacao upa 24h nova opcao i
+203,incentivos,tipo_habilitacao,8129,(1),esp em municipios com gh = 4 e taxa de populacao prisional 1 a 5%
+204,incentivos,tipo_habilitacao,8115,(1),consultorio itinerante de ensino em oftalmologia
+205,incentivos,tipo_habilitacao,8261,(1),upa 24h ampliada opcao i
+206,incentivos,tipo_habilitacao,8128,(1),esp em municipios com gh = 4 e taxa de populacao prisional <1%
+207,incentivos,tipo_habilitacao,8101,(1),integrasus nivel a
+208,incentivos,tipo_habilitacao,8107,(1),nasf
+209,incentivos,tipo_habilitacao,8105,(1),ceo
+210,incentivos,tipo_habilitacao,8116,(1),esp em municipios com gh = 1 e taxa de populacao prisional <1%
+211,incentivos,tipo_habilitacao,8222,(1),comunidades terapeuticas
+212,incentivos,tipo_habilitacao,8246,(1),unidade movel de atendimento pre-hospitalar aeromedico samu 192
+213,incentivos,tipo_habilitacao,8252,(1),organizacao de procura de orgaos e tecidos
+214,incentivos,tipo_habilitacao,8264,(1),upa 24h ampliada opcao vi
+215,incentivos,tipo_habilitacao,8247,(1),unidade movel de atendimento pre-hospitalar ambulancha samu 192
+216,incentivos,tipo_habilitacao,8123,(1),esp em municipios com gh = 2 e taxa de populacao prisional >10%
+217,incentivos,tipo_habilitacao,8251,(1),central de regulacao das urgencias samu 192 qualificada
+218,incentivos,tipo_habilitacao,8102,(1),integrasus nivel b
+219,incentivos,tipo_habilitacao,8223,(1),centro especializado em reabilitacao ii (cer ii)
+220,incentivos,tipo_habilitacao,8126,(1),esp em municipios com gh = 3 e taxa de populacao prisional >5 a 10%
+221,incentivos,tipo_habilitacao,8111,(1),uom-unidade movel odontogica
+222,incentivos,tipo_habilitacao,8230,(1),servico de atencao em regime residencial
+223,incentivos,tipo_habilitacao,8268,(1),upa 24h nova opcao iv
+224,incentivos,tipo_habilitacao,8205,(1),upa 24h ampliada opcao v
+225,incentivos,tipo_habilitacao,8245,(1),central de regulacao das urgencias samu 192
+226,incentivos,tipo_habilitacao,8258,(1),qualificacao upa 24h nova opcao iv
+227,incentivos,tipo_habilitacao,8104,(1),iae-pi
+228,incentivos,tipo_habilitacao,8138,(1),esp em municipios com gh = 6 e taxa de populacao prisional >5 a 10%
+229,incentivos,tipo_habilitacao,8202,(1),qualificacao upa 24h nova opcao v
+230,incentivos,tipo_habilitacao,8209,(1),leito gestacao de alto risco (gar)
+231,incentivos,tipo_habilitacao,8210,(1),leito de cuidado integral ao paciente com avc
+232,incentivos,tipo_habilitacao,8229,(1),ua infanto juvenil
+233,incentivos,tipo_habilitacao,8133,(1),esp em municipios com gh = 5 e taxa de populacao prisional 1 a 5%
+234,incentivos,tipo_habilitacao,8135,(1),esp em municipios com gh = 5 e taxa de populacao prisional >10%
+235,incentivos,tipo_habilitacao,8221,(1),unidade de acolhimento (ua)
+236,incentivos,tipo_habilitacao,8255,(1),leito de cuidado ao paciente com avc agudo
+237,incentivos,tipo_habilitacao,8139,(1),esp em municipios com gh = 6 e taxa de populacao prisional >10%
+238,incentivos,tipo_habilitacao,8220,(1),saude mental
+239,incentivos,tipo_habilitacao,8236,(1),oficina ortopedica itinerante fluvial
+240,incentivos,tipo_habilitacao,8125,(1),esp em municipios com gh = 3 e taxa de populacao prisional 1 a 5%
+241,incentivos,tipo_habilitacao,8238,(1),cerest estadual
+242,incentivos,tipo_habilitacao,8110,(1),upa reformada e ampliada
+243,incentivos,tipo_habilitacao,8240,(1),cerest regional
+244,incentivos,tipo_habilitacao,8241,(1),upa 24h nova opcao iii
+245,incentivos,tipo_habilitacao,8244,(1),unidade na doenca renal cronica (drc) com ou sem trs/dialise
+246,incentivos,tipo_habilitacao,8137,(1),esp em municipios com gh = 6 e taxa de populacao prisional 1 a 5%
+247,incentivos,tipo_habilitacao,8213,(1),porta de entrada hospitalar de urgencia (pehu) - hospital especializado tipo i
+248,incentivos,tipo_habilitacao,8226,(1),residencia terapeutica tipo i
+249,incentivos,tipo_habilitacao,8260,(1),qualificacao upa 24h nova opcao vii
+250,incentivos,tipo_habilitacao,8269,(1),upa 24h nova opcao vi
+251,incentivos,tipo_habilitacao,8124,(1),esp em municipios com gh = 3 e taxa de populacao prisional <1%
+252,incentivos,tipo_habilitacao,8204,(1),upa 24h ampliada opcao iii
+253,incentivos,tipo_habilitacao,8212,(1),porta de entrada hospitalar de urgencia (pehu) - hospital geral
+254,incentivos,tipo_habilitacao,8215,(1),enfermaria clinica de retaguarda
+255,incentivos,tipo_habilitacao,8228,(1),ua adulto
+256,incentivos,tipo_habilitacao,8114,(1),consultorio itinerante de ensino em odontologia
+257,incentivos,tipo_habilitacao,8208,(1),sala de estabilizacao
+258,incentivos,tipo_habilitacao,8270,(1),upa 24h nova opcao vii
+259,equipamento,id_equipamento,06,(1),raio x mais de 500ma
+260,equipamento,id_equipamento,19,(1),ar condicionado
+261,equipamento,id_equipamento,33,(1),endoscopio digestivo
+262,equipamento,id_equipamento,15,(1),ultrassom convencional
+263,equipamento,id_equipamento,58,(1),incubadora
+264,equipamento,id_equipamento,23,(1),usina de oxigenio
+265,equipamento,id_equipamento,47,(1),ceratometro
+266,equipamento,id_equipamento,83,(1),caneta de alta rotacao
+267,equipamento,id_equipamento,99,(1),hi-pro
+268,equipamento,id_equipamento,18,(1),pet/ct
+269,equipamento,id_equipamento,26,(1),condensador
+270,equipamento,id_equipamento,48,(1),tonometro de aplanacao
+271,equipamento,id_equipamento,74,(1),equipamentos de aferese
+272,equipamento,id_equipamento,10,(1),raio x para hemodinamica
+273,equipamento,id_equipamento,55,(1),debitometro
+274,equipamento,id_equipamento,39,(1),refrator
+275,equipamento,id_equipamento,85,(1),amalgamador
+276,equipamento,id_equipamento,38,(1),coluna oftalmologica
+277,equipamento,id_equipamento,56,(1),desfibrilador
+278,equipamento,id_equipamento,65,(1),grupo gerador portatil (ate 7 kva)
+279,equipamento,id_equipamento,40,(1),lensometro
+280,equipamento,id_equipamento,50,(1),campimetro
+281,equipamento,id_equipamento,70,(1),veiculo utilitario (tipo furgao)
+282,equipamento,id_equipamento,05,(1),raio x de 100 a 500 ma
+283,equipamento,id_equipamento,61,(1),monitor de pressao invasivo
+284,equipamento,id_equipamento,30,(1),grupo gerador (acima de 300 kva)
+285,equipamento,id_equipamento,20,(1),camara frigorifica
+286,equipamento,id_equipamento,03,(1),mamografo com estereotaxia
+287,equipamento,id_equipamento,35,(1),laparoscopio/video
+288,equipamento,id_equipamento,69,(1),empilhadeira
+289,equipamento,id_equipamento,92,(1),audiometro de dois canais
+290,equipamento,id_equipamento,07,(1),raio x dentario
+291,equipamento,id_equipamento,78,(1),forno de bier
+292,equipamento,id_equipamento,84,(1),caneta de baixa rotacao
+293,equipamento,id_equipamento,98,(1),ganho de insercao
+294,equipamento,id_equipamento,42,(1),eletroencefalografo
+295,equipamento,id_equipamento,77,(1),equipamento para hemodialise
+296,equipamento,id_equipamento,96,(1),sistema de campo livre
+297,equipamento,id_equipamento,31,(1),endoscopio das vias respiratorias
+298,equipamento,id_equipamento,52,(1),bomba de infusao
+299,equipamento,id_equipamento,66,(1),refrigerador
+300,equipamento,id_equipamento,97,(1),sistema completo de reforãƒâ€¡o visual(vra)
+301,equipamento,id_equipamento,54,(1),bilirrubinometro
+302,equipamento,id_equipamento,80,(1),equipo odontologico completo
+303,equipamento,id_equipamento,79,(1),veiculo pick-up cabine dupla 4x4 (diesel)
+304,equipamento,id_equipamento,28,(1),grupo gerador (101 a 300 kva)
+305,equipamento,id_equipamento,49,(1),biomicroscopio (lampada de fenda)
+306,equipamento,id_equipamento,11,(1),tomografo computadorizado
+307,equipamento,id_equipamento,36,(1),microcopio cirurgico
+308,equipamento,id_equipamento,13,(1),ultrassom doppler colorido
+309,equipamento,id_equipamento,59,(1),marcapasso temporario
+310,equipamento,id_equipamento,73,(1),bomba de infusao de hemoderivados
+311,equipamento,id_equipamento,04,(1),raio x ate 100 ma
+312,equipamento,id_equipamento,68,(1),embarcacao para transporte com motor popa (ate 12 pessoas)
+313,equipamento,id_equipamento,67,(1),caminhao bau refrigerado
+314,equipamento,id_equipamento,82,(1),fotopolimerizador
+315,equipamento,id_equipamento,51,(1),bomba/balao intraaortico
+316,equipamento,id_equipamento,93,(1),imitanciometro
+317,equipamento,id_equipamento,17,(1),mamografo computadorizado
+318,equipamento,id_equipamento,88,(1),emissoes otoacusticas evocadas por produto de distorcao
+319,equipamento,id_equipamento,22,(1),grupo gerador
+320,equipamento,id_equipamento,24,(1),camara para conservacao de hemoderivados/imuno/termolabeis
+321,equipamento,id_equipamento,41,(1),eletrocardiografo
+322,equipamento,id_equipamento,21,(1),controle ambiental/arcondicionado central
+323,equipamento,id_equipamento,72,(1),aparelho de eletroestimulacao
+324,equipamento,id_equipamento,25,(1),camara para conservacao de imunobiologicos
+325,equipamento,id_equipamento,34,(1),equipamentos para optometria
+326,equipamento,id_equipamento,37,(1),cadeira oftalmologica
+327,equipamento,id_equipamento,46,(1),oftalmoscopio
+328,equipamento,id_equipamento,27,(1),freezer cientifico
+329,equipamento,id_equipamento,29,(1),grupo gerador (8 a 100 kva)
+330,equipamento,id_equipamento,89,(1),potencial evocado auditivo de tronco encefalico automatico
+331,equipamento,id_equipamento,08,(1),raio x com fluoroscopia
+332,equipamento,id_equipamento,16,(1),processadora de filme exclusiva para mamografia
+333,equipamento,id_equipamento,32,(1),endoscopio das vias urinarias
+334,equipamento,id_equipamento,87,(1),emissoes otoacusticas evocadas transientes
+335,equipamento,id_equipamento,95,(1),cabine acustica
+336,equipamento,id_equipamento,02,(1),mamografo com comando simples
+337,equipamento,id_equipamento,63,(1),reanimador pulmonar/ambu
+338,equipamento,id_equipamento,90,(1),pot evocado aud tronco encef de curta
+339,equipamento,id_equipamento,91,(1),audiometro de um canal
+340,equipamento,id_equipamento,60,(1),monitor de ecg
+341,equipamento,id_equipamento,01,(1),gama camara
+342,equipamento,id_equipamento,09,(1),raio x para densitometria ossea
+343,equipamento,id_equipamento,57,(1),equipamento de fototerapia
+344,equipamento,id_equipamento,14,(1),ultrassom ecografo
+345,equipamento,id_equipamento,12,(1),ressonancia magnetica
+346,equipamento,id_equipamento,64,(1),respirador/ventilador
+347,equipamento,id_equipamento,43,(1),grupo gerador de 1.500 kva (minimo)
+348,equipamento,id_equipamento,44,(1),projetor ou tabela de optotipos
+349,equipamento,id_equipamento,45,(1),retinoscopio
+350,equipamento,id_equipamento,62,(1),monitor de pressao nao invasivo
+351,equipamento,id_equipamento,71,(1),aparelho de diatermia por ultrassom/ondas curtas
+352,equipamento,id_equipamento,53,(1),berco aquecido
+353,equipamento,id_equipamento,75,(1),equipamento para audiometria
+354,equipamento,id_equipamento,76,(1),equipamento de circulacao extracorporea
+355,equipamento,id_equipamento,81,(1),compressor odontologico
+356,equipamento,id_equipamento,86,(1),aparelho de profilaxia c/jato de bicarbonato
+357,equipamento,id_equipamento,94,(1),imitanciometro multifrequencial
+358,equipamento,tipo_equipamento,5,(1),equipamentos para manutencao da vida
+359,equipamento,tipo_equipamento,7,(1),equipamentos de odontologia
+360,equipamento,tipo_equipamento,8,(1),equipamentos de audiologia
+361,equipamento,tipo_equipamento,2,(1),equipamentos de infraestrutura
+362,equipamento,tipo_equipamento,4,(1),equipamentos por metodos graficos
+363,equipamento,tipo_equipamento,6,(1),outros equipamentos
+364,equipamento,tipo_equipamento,3,(1),equipamentos por metodos opticos
+365,equipamento,tipo_equipamento,1,(1),equipamentos de diagnostico por imagem
+366,habilitacao,tipo_habilitacao,0502,(1),centro de referencia em oftalmologia - nivel ii
+367,habilitacao,tipo_habilitacao,0612,(1),classe xii
+368,habilitacao,tipo_habilitacao,0627,(1),classe vi
+369,habilitacao,tipo_habilitacao,2303,(1),enteral
+370,habilitacao,tipo_habilitacao,3503,(1),atencao especializada eixo i  dr de origem genetica: 3 erro inato do metabolismo (eim)
+371,habilitacao,tipo_habilitacao,0607,(1),classe vii
+372,habilitacao,tipo_habilitacao,0810,(1),lab. eletrofisiologico e terapia intervencionista
+373,habilitacao,tipo_habilitacao,1704,(1),servico isolado de radioterapia
+374,habilitacao,tipo_habilitacao,1713,(1),cacon com servico de oncologia pediatrica
+375,habilitacao,tipo_habilitacao,2408,(1),rim
+376,habilitacao,tipo_habilitacao,0610,(1),classe x
+377,habilitacao,tipo_habilitacao,0706,(1),servico de referencia de saude do trabalhador regional c
+378,habilitacao,tipo_habilitacao,1503,(1),hemodialise ii
+379,habilitacao,tipo_habilitacao,1602,(1),centro de referencia de alta complexidade em neurologia/neurocirurgia**.
+380,habilitacao,tipo_habilitacao,2409,(1),figado
+381,habilitacao,tipo_habilitacao,2426,(1),estabelecimento de saude de nivel a
+382,habilitacao,tipo_habilitacao,2711,(1),administracao pre-hospitalar de tenecteplase
+383,habilitacao,tipo_habilitacao,0202,(1),unid.de assist. de alta complexidade ao paciente portador de obesidade grave
+384,habilitacao,tipo_habilitacao,0506,(1),tratamento do glaucoma com medicamentos no ambito da politica nacional de atencao oftalmologica
+385,habilitacao,tipo_habilitacao,0801,(1),unidade de assistencia de alta complexidade cardiovascular*
+386,habilitacao,tipo_habilitacao,1720,(1),servico de referencia para diagnostico de cancer de mama â€“ sdm
+387,habilitacao,tipo_habilitacao,2209,(1),centro especializado em reabilitacao (cer) - modalidade intelectual
+388,habilitacao,tipo_habilitacao,2507,(1),coxa
+389,habilitacao,tipo_habilitacao,2706,(1),samu 192 - equipe de aeromedico
+390,habilitacao,tipo_habilitacao,0101,(1),centro de referencia em atencao a saude do idoso
+391,habilitacao,tipo_habilitacao,0636,(1),servicos hospitalares de referencia
+392,habilitacao,tipo_habilitacao,1614,(1),neurocirurgia iii
+393,habilitacao,tipo_habilitacao,2430,(1),transplante de figado por ihh febre amarela
+394,habilitacao,tipo_habilitacao,3511,(1),servico de referencia eixo ii dr de origem nao genetica:2-doencas raras inflamatorias
+395,habilitacao,tipo_habilitacao,3515,(1),servico de aconselhamento genetico
+396,habilitacao,tipo_habilitacao,1204,(1),hospital dia em intercorrencias pos - transplante de medula ossea e de outros precursores hematopoeticos
+397,habilitacao,tipo_habilitacao,1705,(1),servico isolado de quimioterapia
+398,habilitacao,tipo_habilitacao,1712,(1),cacon
+399,habilitacao,tipo_habilitacao,2418,(1),exames de histocompatibilidade atraves de sorologia e ou biologia molecular - tipo ii
+400,habilitacao,tipo_habilitacao,2422,(1),transplante de tecido musculo esqueletico
+401,habilitacao,tipo_habilitacao,2424,(1),transplante de pele
+402,habilitacao,tipo_habilitacao,2703,(1),hospital tipo iii em urgencia
+403,habilitacao,tipo_habilitacao,3302,(1),laboratorio de referencia regional (lrr)
+404,habilitacao,tipo_habilitacao,1718,(1),oncologia cirurgica hospital porte b
+405,habilitacao,tipo_habilitacao,2201,(1),centro de reabilitacao em medicina fisica
+406,habilitacao,tipo_habilitacao,2605,(1),uti iii neonatal
+407,habilitacao,tipo_habilitacao,3513,(1),atencao especializada em doencas raras - eixo ii  dr de origem nao genetica: 4 outras doencas raras de origem nao genetica
+408,habilitacao,tipo_habilitacao,1604,(1),coluna e dos nervos perifericos
+409,habilitacao,tipo_habilitacao,2304,(1),enteral e parenteral
+410,habilitacao,tipo_habilitacao,2697,(1),uti i neonatal
+411,habilitacao,tipo_habilitacao,0401,(1),centro de tratamento da ma formacao labio palatal
+412,habilitacao,tipo_habilitacao,0405,(1),ceo iii - centro de especialidades odontologicas
+413,habilitacao,tipo_habilitacao,0624,(1),classe iii
+414,habilitacao,tipo_habilitacao,0702,(1),servico de referencia de saude do trabalhador estadual b
+415,habilitacao,tipo_habilitacao,1507,(1),unidade especializada em drc com trs/dialise tipo i   com hemodialise
+416,habilitacao,tipo_habilitacao,2402,(1),transplante de medula ossea - alogenico aparentado
+417,habilitacao,tipo_habilitacao,3201,(1),unidade de mamografia movel
+418,habilitacao,tipo_habilitacao,0604,(1),classe iv
+419,habilitacao,tipo_habilitacao,1609,(1),tratamento neuro endovascular
+420,habilitacao,tipo_habilitacao,1615,(1),centro de atendimento de urgencia tipo i   aos pacientes com avc
+421,habilitacao,tipo_habilitacao,2415,(1),banco de tecido musculo esqueletico
+422,habilitacao,tipo_habilitacao,2802,(1),unidade de cuidados intermediarios neonatal convencional (ucinco)
+423,habilitacao,tipo_habilitacao,3512,(1),servico de referencia eixo ii dr de origem nao genetica:1-doencas raras infecciosas
+424,habilitacao,tipo_habilitacao,0614,(1),classe xiv
+425,habilitacao,tipo_habilitacao,0904,(1),cuidados prolongados - enfermidades osteomuscular e do tecido conjuntivo
+426,habilitacao,tipo_habilitacao,1412,(1),unidade de centro de parto normal peri-hospitalar 5ppp
+427,habilitacao,tipo_habilitacao,1617,(1),centro de atendimento de urgencia tipo iii aos pacientes com avc
+428,habilitacao,tipo_habilitacao,1701,(1),centro de alta complexidade em oncologia - cacon i
+429,habilitacao,tipo_habilitacao,2606,(1),uti iii pediatrica
+430,habilitacao,tipo_habilitacao,1206,(1),hospital dia - saude mental
+431,habilitacao,tipo_habilitacao,1703,(1),centro de alta complexidade em oncologia - cacon iii
+432,habilitacao,tipo_habilitacao,2205,(1),centro de reabilitacao auditiva na alta complexidade
+433,habilitacao,tipo_habilitacao,2417,(1),exames de histocompatibilidade atraves de sorologia - tipo i
+434,habilitacao,tipo_habilitacao,2512,(1),ortopedia - ombro
+435,habilitacao,tipo_habilitacao,2698,(1),uti i pediatrica
+436,habilitacao,tipo_habilitacao,2701,(1),hospital tipo i em urgencia
+437,habilitacao,tipo_habilitacao,0705,(1),servico de referencia de saude do trabalhador regional b
+438,habilitacao,tipo_habilitacao,1505,(1),unidade de assistencia de alta complexidade em nefrologia com dialise ritoneal
+439,habilitacao,tipo_habilitacao,2207,(1),centro de reabilitacao dos transtornos do espectro do autismo
+440,habilitacao,tipo_habilitacao,2306,(1),nutricao enteral
+441,habilitacao,tipo_habilitacao,2414,(1),banco de valvulas cardiacas
+442,habilitacao,tipo_habilitacao,2421,(1),banco de multitecidos
+443,habilitacao,tipo_habilitacao,2710,(1),central de regulacao das urgencias
+444,habilitacao,tipo_habilitacao,3504,(1),atencao especializada eixo ii dr de origem nao genetica: 1 doencas raras inflamatorias
+445,habilitacao,tipo_habilitacao,0501,(1),centro de referencia em oftalmologia - nivel i
+446,habilitacao,tipo_habilitacao,2305,(1),enteral e parenteral com manipulacao e fabricacao da formula nutricional
+447,habilitacao,tipo_habilitacao,0609,(1),classe ix
+448,habilitacao,tipo_habilitacao,1717,(1),oncologia cirurgica hospital porte a
+449,habilitacao,tipo_habilitacao,2405,(1),conjugado rim e pancreas
+450,habilitacao,tipo_habilitacao,2702,(1),hospital tipo ii em urgencia
+451,habilitacao,tipo_habilitacao,3601,(1),sitio testador de acidos nucleicos (sit-nat)
+452,habilitacao,tipo_habilitacao,0508,(1),tratamento do glaucoma com medicamentos do componente especializado da assistencia farmaceutica (ceaf)
+453,habilitacao,tipo_habilitacao,0905,(1),cuidados prolongados - enfermidades oncoligicas
+454,habilitacao,tipo_habilitacao,1001,(1),centro de referencia no tratamento da dor cronica
+455,habilitacao,tipo_habilitacao,1301,(1),internacao domiciliar
+456,habilitacao,tipo_habilitacao,2420,(1),retirada de orgaos e tecidos
+457,habilitacao,tipo_habilitacao,0403,(1),centro de especialidades odontologicas i
+458,habilitacao,tipo_habilitacao,0606,(1),classe vi
+459,habilitacao,tipo_habilitacao,1203,(1),hospital dia - aids
+460,habilitacao,tipo_habilitacao,1419,(1),unidade de centro de parto normal intra-hospitalar tipo ii 5ppp
+461,habilitacao,tipo_habilitacao,1605,(1),tumores do sistema nervoso
+462,habilitacao,tipo_habilitacao,1611,(1),epilepsia
+463,habilitacao,tipo_habilitacao,1714,(1),hospital geral com cirurgia oncologica
+464,habilitacao,tipo_habilitacao,1719,(1),servico de referencia para diagnostico e tratamento de lesoes precursoras do cancer do colo de utero - src
+465,habilitacao,tipo_habilitacao,2504,(1),cintura escapular
+466,habilitacao,tipo_habilitacao,2508,(1),perna
+467,habilitacao,tipo_habilitacao,2516,(1),ortopedia - tumor osseo
+468,habilitacao,tipo_habilitacao,3002,(1),atencao especializada no processo transexualizador realizando acompanhamento clinico
+469,habilitacao,tipo_habilitacao,3403,(1),centro de trauma tipo iii
+470,habilitacao,tipo_habilitacao,1101,(1),servico hospitalar para tratamento aids
+471,habilitacao,tipo_habilitacao,1417,(1),unidade de centro de parto normal peri-hospitalar 3ppp
+472,habilitacao,tipo_habilitacao,1613,(1),neurocirurgia ii
+473,habilitacao,tipo_habilitacao,2505,(1),antebraco
+474,habilitacao,tipo_habilitacao,0613,(1),classe xiii
+475,habilitacao,tipo_habilitacao,0632,(1),nivel ii  - estabelecimento de saude com nâº de leitos de psiquiatria entre 161 a 240
+476,habilitacao,tipo_habilitacao,0805,(1),cirurgia vascular
+477,habilitacao,tipo_habilitacao,1302,(1),servico de atencao domiciliar
+478,habilitacao,tipo_habilitacao,1603,(1),trauma e anomalias do desenvolvimento
+479,habilitacao,tipo_habilitacao,1606,(1),neurocirurgia vascular
+480,habilitacao,tipo_habilitacao,1709,(1),unacon com servico de oncologia pediatrica
+481,habilitacao,tipo_habilitacao,2211,(1),centro especializado em reabilitacao (cer) - modalidade visual
+482,habilitacao,tipo_habilitacao,2425,(1),cadastramento de doadores voluntarios de medula ossea e outros precursores hematopoeticos
+483,habilitacao,tipo_habilitacao,0908,(1),unidade de internacao em cuidados prolongados (ucp)
+484,habilitacao,tipo_habilitacao,1407,(1),centro de referencia em triagem neonatal/acompanhamento e tratamento - fibrose cistica
+485,habilitacao,tipo_habilitacao,1504,(1),unidade de assistencia de alta complexidade em nefrologia com hemodialise
+486,habilitacao,tipo_habilitacao,2413,(1),banco de tecido ocular humano
+487,habilitacao,tipo_habilitacao,3303,(1),centro colaborador
+488,habilitacao,tipo_habilitacao,3502,(1),atencao especializada eixo i  dr de origem genetica: 2 deficiencia intelectual
+489,habilitacao,tipo_habilitacao,0601,(1),classe i
+490,habilitacao,tipo_habilitacao,0701,(1),servico de referencia de saude do trabalhador estadual a
+491,habilitacao,tipo_habilitacao,0703,(1),servico de referencia de saude do trabalhador estadual c
+492,habilitacao,tipo_habilitacao,0901,(1),cuidados prolongados - enfermidades cardiovasculares
+493,habilitacao,tipo_habilitacao,1406,(1),centro de referencia em triagem neonatal /acompanhamento e tratamento - doencas falciformes e outras hemoglobinopatias
+494,habilitacao,tipo_habilitacao,2518,(1),adesao a estrategia de aumento do acesso aos procedimentos tom
+495,habilitacao,tipo_habilitacao,0404,(1),centro de especialidades odontologicas ii
+496,habilitacao,tipo_habilitacao,0615,(1),pnass maior que 80%
+497,habilitacao,tipo_habilitacao,0628,(1),classe vii
+498,habilitacao,tipo_habilitacao,1403,(1),unidade que realiza assistencia ao parto sem distocia por enfermeiro(a) obstetra
+499,habilitacao,tipo_habilitacao,1716,(1),servico de oncologia clinica de complexo hospitalar
+500,habilitacao,tipo_habilitacao,2607,(1),uti queimados
+501,habilitacao,tipo_habilitacao,3501,(1),atencao especializada eixo i  dr de origem genetica: 1 anomalias congenitas ou de manifestacao tardia
+502,habilitacao,tipo_habilitacao,0637,(1),caps ad iv
+503,habilitacao,tipo_habilitacao,0802,(1),centro de referencia em alta complexidade cardiovascular**
+504,habilitacao,tipo_habilitacao,0806,(1),cirurgia vascular e procedimentos endovasculares extracardiacos
+505,habilitacao,tipo_habilitacao,0807,(1),laboratorio de eletrofisiologia
+506,habilitacao,tipo_habilitacao,0906,(1),cuidados prolongados - enfermidades decorrentes da aids
+507,habilitacao,tipo_habilitacao,1201,(1),fibrose cistica - hospital dia
+508,habilitacao,tipo_habilitacao,1414,(1),atencao hospitalar de referencia a gestacao de alto risco tipo ii
+509,habilitacao,tipo_habilitacao,2423,(1),transplante da valvula cardiaca humana
+510,habilitacao,tipo_habilitacao,2506,(1),cintura pelvica
+511,habilitacao,tipo_habilitacao,2601,(1),uti ii adulto
+512,habilitacao,tipo_habilitacao,3003,(1),atencao especializada no processo transexualizador realizando cirurgias e acompanhamento pre e pos operatorio
+513,habilitacao,tipo_habilitacao,3701,(1),coleta de vestigios de violencia sexual
+514,habilitacao,tipo_habilitacao,0603,(1),classe iii
+515,habilitacao,tipo_habilitacao,1509,(1),unidade especializada em drc com trs/dialise tipo ii  com hemodialise
+516,habilitacao,tipo_habilitacao,1801,(1),centro de referencia de tratamento de osteogenesis imperfecta
+517,habilitacao,tipo_habilitacao,1901,(1),laqueadura
+518,habilitacao,tipo_habilitacao,2416,(1),banco de sangue e cordao umbilical e placentario
+519,habilitacao,tipo_habilitacao,2699,(1),uti i
+520,habilitacao,tipo_habilitacao,2803,(1),unidade de cuidados intermediarios neonatal canguru (ucinca)
+521,habilitacao,tipo_habilitacao,0305,(1),atencao especializada as pessoas com deficiencia auditiva
+522,habilitacao,tipo_habilitacao,0804,(1),cirurgia cardiovascular pediatrica
+523,habilitacao,tipo_habilitacao,1415,(1),casa da gestante
+524,habilitacao,tipo_habilitacao,2206,(1),centro de reabilitacao intelectual
+525,habilitacao,tipo_habilitacao,3202,(1),laboratorio de exames citopatologicos do colo de utero - tipo i
+526,habilitacao,tipo_habilitacao,0503,(1),unidade de atencao especializada em oftalmologia
+527,habilitacao,tipo_habilitacao,0608,(1),classe viii
+528,habilitacao,tipo_habilitacao,0903,(1),cuidados prolongados - enfermidades neurologicas
+529,habilitacao,tipo_habilitacao,1408,(1),triagem neonatal fase iv
+530,habilitacao,tipo_habilitacao,1512,(1),unidade especializada em drc com trs/dialise tipo iii com dialise peritoneal
+531,habilitacao,tipo_habilitacao,1612,(1),neurocirurgia i
+532,habilitacao,tipo_habilitacao,1721,(1),hospital geral com cirurgia de cancer de complexo hospitalar
+533,habilitacao,tipo_habilitacao,2410,(1),pulmao
+534,habilitacao,tipo_habilitacao,0803,(1),cirurgia cardiovascular e procedimentos em cardiologia intervencionista
+535,habilitacao,tipo_habilitacao,1607,(1),tratamento neurocirurgico da dor e funcional
+536,habilitacao,tipo_habilitacao,2203,(1),centro de reabilitacao visual
+537,habilitacao,tipo_habilitacao,2404,(1),pancreas isolado
+538,habilitacao,tipo_habilitacao,2705,(1),samu 192 - suporte avancado de vida
+539,habilitacao,tipo_habilitacao,2801,(1),cuidados intermediarios
+540,habilitacao,tipo_habilitacao,0504,(1),centro de referencia em oftalmologia
+541,habilitacao,tipo_habilitacao,0605,(1),classe v
+542,habilitacao,tipo_habilitacao,0620,(1),caps infantil
+543,habilitacao,tipo_habilitacao,0622,(1),classe i-
+544,habilitacao,tipo_habilitacao,0630,(1),psiquiatria iii
+545,habilitacao,tipo_habilitacao,2427,(1),estabelecimento de saude de nivel b
+546,habilitacao,tipo_habilitacao,3001,(1),unidade de atencao especializada no processo transexualizador
+547,habilitacao,tipo_habilitacao,0301,(1),centros/nucleos para realizacao de implante coclear
+548,habilitacao,tipo_habilitacao,3510,(1),servico de referencia eixo ii dr de origem nao genetica:3-doencas raras autoimunes
+549,habilitacao,tipo_habilitacao,0617,(1),caps ii
+550,habilitacao,tipo_habilitacao,0625,(1),classe iv
+551,habilitacao,tipo_habilitacao,1104,(1),tratamento da lipodistrofia do portador de hiv/aids
+552,habilitacao,tipo_habilitacao,1410,(1),unidade de centro de parto normal intra-hospitalar tipo i 3ppp
+553,habilitacao,tipo_habilitacao,2503,(1),coluna
+554,habilitacao,tipo_habilitacao,0611,(1),classe xi
+555,habilitacao,tipo_habilitacao,1616,(1),centro de atendimento de urgencia tipo ii  aos pacientes com avc
+556,habilitacao,tipo_habilitacao,1711,(1),unacon exclusiva de oncologia pediatrica
+557,habilitacao,tipo_habilitacao,2401,(1),transplante de medula ossea - autogenico
+558,habilitacao,tipo_habilitacao,2708,(1),samu 192 - veiculos de intervencao rapida (vir)
+559,habilitacao,tipo_habilitacao,0809,(1),cirurgia cardiaca
+560,habilitacao,tipo_habilitacao,1105,(1),laboratorio especializado em contagem de linfocitos t cd4+/cd8+
+561,habilitacao,tipo_habilitacao,1502,(1),centro de referencia de alta complexidade em nefrologia
+562,habilitacao,tipo_habilitacao,2604,(1),uti iii adulto
+563,habilitacao,tipo_habilitacao,0618,(1),caps iii
+564,habilitacao,tipo_habilitacao,1401,(1),referencia hospitalar em atendimento secundario a gestacao de alto risco
+565,habilitacao,tipo_habilitacao,1707,(1),unacon com servico de radioterapia
+566,habilitacao,tipo_habilitacao,2511,(1),ortopedia - coluna
+567,habilitacao,tipo_habilitacao,0626,(1),classe v
+568,habilitacao,tipo_habilitacao,0629,(1),classe viii
+569,habilitacao,tipo_habilitacao,2602,(1),uti ii neonatal
+570,habilitacao,tipo_habilitacao,2610,(1),unidade de terapia intensiva neonatal tipo ii  - utin ii
+571,habilitacao,tipo_habilitacao,2901,(1),videocirurgias
+572,habilitacao,tipo_habilitacao,1405,(1),centro de referencia em triagem neonatal /acompanhamento e tratamento de doencas congenitas - fenilcetonuria/hipotireoidismo congenito
+573,habilitacao,tipo_habilitacao,1416,(1),hospital amigo da crianca
+574,habilitacao,tipo_habilitacao,1715,(1),servico de radioterapia de complexo hospitalar
+575,habilitacao,tipo_habilitacao,2419,(1),banco de pele humana
+576,habilitacao,tipo_habilitacao,2609,(1),unidade de terapia intensiva - uco tipo iii
+577,habilitacao,tipo_habilitacao,3304,(1),laboratorio de fronteira (lf)
+578,habilitacao,tipo_habilitacao,3514,(1),servico de referencia em doencas raras - eixo ii dr de origem nao genetica: 4 outras doenca rara de origem nao genetica
+579,habilitacao,tipo_habilitacao,0201,(1),centro de referencia em cirurgia bariatrica
+580,habilitacao,tipo_habilitacao,1501,(1),unidade de assistencia de alta complexidade em nefrologia
+581,habilitacao,tipo_habilitacao,2210,(1),centro especializado em reabilitacao (cer) - modalidade auditiva
+582,habilitacao,tipo_habilitacao,2302,(1),centro de referencia de alta complexidade em terapia nutricional
+583,habilitacao,tipo_habilitacao,2411,(1),coracao
+584,habilitacao,tipo_habilitacao,2704,(1),samu 192 - suporte basico de vida
+585,habilitacao,tipo_habilitacao,0507,(1),consultorios itinerantes de ensino em oftalmologia
+586,habilitacao,tipo_habilitacao,1404,(1),hospital amigo da crianca
+587,habilitacao,tipo_habilitacao,2510,(1),traumatologia ortopedica de urgencia
+588,habilitacao,tipo_habilitacao,2515,(1),ortopedia - joelho
+589,habilitacao,tipo_habilitacao,1205,(1),hospital dia - geriatria
+590,habilitacao,tipo_habilitacao,1511,(1),unidade especializada em drc com trs/dialise tipo iii com hemodialise
+591,habilitacao,tipo_habilitacao,1513,(1),unidade especializada em drc com trs/dialise tipo iv  com hemodialise
+592,habilitacao,tipo_habilitacao,1706,(1),unacon
+593,habilitacao,tipo_habilitacao,2403,(1),transplante de medula ossea - alogenico nao aparentado
+594,habilitacao,tipo_habilitacao,0505,(1),projeto olhar brasil
+595,habilitacao,tipo_habilitacao,2101,(1),centro de referencia em assistencia a queimados - media complexidade
+596,habilitacao,tipo_habilitacao,2202,(1),centro de reabilitacao fisica â€“ nivel intermediario
+597,habilitacao,tipo_habilitacao,2428,(1),estabelecimento de saude de nivel c
+598,habilitacao,tipo_habilitacao,2513,(1),ortopedia - mao
+599,habilitacao,tipo_habilitacao,3402,(1),centro de trauma tipo ii
+600,habilitacao,tipo_habilitacao,3506,(1),atencao especializada eixo ii dr de origem nao genetica: 2 doencas raras autoimunes
+601,habilitacao,tipo_habilitacao,0302,(1),diagnostico
+602,habilitacao,tipo_habilitacao,0602,(1),classe ii
+603,habilitacao,tipo_habilitacao,0635,(1),caps ad iii
+604,habilitacao,tipo_habilitacao,1608,(1),investigacao e cirurgia de epilepsia
+605,habilitacao,tipo_habilitacao,3301,(1),laboratorio de referencia nacional (lrn)
+606,habilitacao,tipo_habilitacao,3505,(1),atencao especializada eixo ii dr de origem nao genetica: 2 doencas raras infecciosas
+607,habilitacao,tipo_habilitacao,0402,(1),laboratorio regional de protese dentaria
+608,habilitacao,tipo_habilitacao,0704,(1),servico de referencia de saude do trabalhador regional a
+609,habilitacao,tipo_habilitacao,0902,(1),cuidados prolongados - enfermidades pneumoligicas
+610,habilitacao,tipo_habilitacao,0909,(1),hospital especializado em cuidados prolongados (hcp)
+611,habilitacao,tipo_habilitacao,1102,(1),laboratorio especializado em contagem de linfocitos t cd4+/cd8+ e hiv-1 quantificacao do rna
+612,habilitacao,tipo_habilitacao,1710,(1),unacon exclusiva de hematologia
+613,habilitacao,tipo_habilitacao,2208,(1),centro especializado em reabilitacao (cer) - modalidade fisica
+614,habilitacao,tipo_habilitacao,2509,(1),ortopedia infantil
+615,habilitacao,tipo_habilitacao,0616,(1),caps i
+616,habilitacao,tipo_habilitacao,0619,(1),caps alcool e drogas
+617,habilitacao,tipo_habilitacao,0623,(1),classe ii
+618,habilitacao,tipo_habilitacao,0631,(1),nivel i   - estabelecimento de saude com nâº de leitos de psiquiatria ate 160
+619,habilitacao,tipo_habilitacao,1411,(1),unidade de centro de parto normal intra-hospitalar tipo i 5ppp
+620,habilitacao,tipo_habilitacao,1508,(1),unidade especializada em drc com trs/dialise tipo i   com dialise peritoneal
+621,habilitacao,tipo_habilitacao,1902,(1),vasectomia
+622,habilitacao,tipo_habilitacao,2517,(1),outros segmentos osseos
+623,habilitacao,tipo_habilitacao,0303,(1),diagnostico
+624,habilitacao,tipo_habilitacao,1409,(1),servico diagnostico de fibrose cistica
+625,habilitacao,tipo_habilitacao,1514,(1),unidade especializada em drc com trs/dialise tipo iv  com dialise peritoneal
+626,habilitacao,tipo_habilitacao,1610,(1),neurocirurgia funcional esteriotaxica
+627,habilitacao,tipo_habilitacao,1708,(1),unacon com servico de hematologia
+628,habilitacao,tipo_habilitacao,2204,(1),centro de reabilitacao auditiva na media complexidade
+629,habilitacao,tipo_habilitacao,0633,(1),nivel iii - estabelecimento de saude com nâº de leitos de psiquiatria entre 241 a 400
+630,habilitacao,tipo_habilitacao,1510,(1),unidade especializada em drc com trs/dialise tipo ii  com dialise peritoneal
+631,habilitacao,tipo_habilitacao,1601,(1),unidade de assistencia de alta complexidade em neurologia/neurocirurgia*.
+632,habilitacao,tipo_habilitacao,1702,(1),centro de alta complexidade em oncologia - cacon ii
+633,habilitacao,tipo_habilitacao,2407,(1),cornea/esclera
+634,habilitacao,tipo_habilitacao,2502,(1),centro de referencia em traumatologia e ortopedia de alta complexidade
+635,habilitacao,tipo_habilitacao,2514,(1),ortopedia - quadril
+636,habilitacao,tipo_habilitacao,2696,(1),uti i adulto
+637,habilitacao,tipo_habilitacao,0808,(1),implante de marcapasso definitivo
+638,habilitacao,tipo_habilitacao,1103,(1),tratamento da lipoatrofia facial do portador de hiv/aids
+639,habilitacao,tipo_habilitacao,1202,(1),procedimentos cirurgicos
+640,habilitacao,tipo_habilitacao,1413,(1),atencao hospitalar de referencia a gestacao de alto risco tipo i
+641,habilitacao,tipo_habilitacao,2501,(1),unidade de assistencia de alta complexidade em traumatologia e ortopedia
+642,habilitacao,tipo_habilitacao,2707,(1),samu 192 - equipe de embarcacao
+643,habilitacao,tipo_habilitacao,0621,(1),servico hospitalar de referencia para a atencao integral aos usuarios de alcool e outras drogas
+644,habilitacao,tipo_habilitacao,0634,(1),nivel i v - estabelecimento de saude com nâº de leitos de psiquiatria acima de 400
+645,habilitacao,tipo_habilitacao,1418,(1),unidade de centro de parto normal intra-hospitalar tipo ii 3ppp
+646,habilitacao,tipo_habilitacao,2611,(1),unidade de terapia intensiva neonatal tipo iii - utin iii
+647,habilitacao,tipo_habilitacao,3401,(1),centro de trauma tipo i
+648,habilitacao,tipo_habilitacao,1106,(1),laboratorio especializado em quantificacao do rna do hiv-1
+649,habilitacao,tipo_habilitacao,2001,(1),programa de assistencia ventiladora nao invasiva aos portadores de doencas neuromusculares
+650,habilitacao,tipo_habilitacao,2429,(1),estabelecimento de saude de nivel d
+651,habilitacao,tipo_habilitacao,2608,(1),unidade de terapia intensiva - uco tipo ii
+652,habilitacao,tipo_habilitacao,2709,(1),samu 192 - motolancia
+653,habilitacao,tipo_habilitacao,3507,(1),servico de referencia eixo i  dr de origem genetica: 1 anomalias congenitas ou de manifestacao tardia
+654,habilitacao,tipo_habilitacao,3508,(1),servico de referencia eixo i  dr de origem genetica: 2 deficiencia intelectual
+655,habilitacao,tipo_habilitacao,0203,(1),assistencia de alta complexidade ao individuo com obesidade
+656,habilitacao,tipo_habilitacao,0907,(1),cuidados prolongados - enfermidades devido a causas externas
+657,habilitacao,tipo_habilitacao,2301,(1),unidade de assistencia de alta complexidade em terapia nutricional*
+658,habilitacao,tipo_habilitacao,3203,(1),laboratorio de monitoramento externo de qualidade de exames citopatologicos de colo de utero - tipo ii
+659,habilitacao,tipo_habilitacao,1402,(1),referencia hospitalar em atendimento terciario a gestacao de alto risco
+660,habilitacao,tipo_habilitacao,1506,(1),unidade especializada em drc
+661,habilitacao,tipo_habilitacao,2102,(1),centro de referencia em assistencia a queimados - alta complexidade
+662,habilitacao,tipo_habilitacao,2412,(1),busca ativa de orgaos
+663,habilitacao,tipo_habilitacao,2603,(1),uti ii pediatrica
+664,habilitacao,tipo_habilitacao,3509,(1),servico de referencia eixo i  dr de origem genetica: 3 erro inato do metabolismo (eim)
+665,habilitacao,nivel_habilitacao,1,(1),federal
+666,habilitacao,nivel_habilitacao,2,(1),local
+667,gestao_metas,tipo_habilitacao,7001,(1),hospital de ensino com contrato de gestao/metas
+668,gestao_metas,tipo_habilitacao,7007,(1),estabelecimentos de outros orgaos federais
+669,gestao_metas,tipo_habilitacao,7002,(1),hospital de pequeno porte com contrato de gestao/metas
+670,gestao_metas,tipo_habilitacao,7005,(1),estabelecimento do ministerio da saude com contrato de gestao/metas
+671,gestao_metas,tipo_habilitacao,7004,(1),hospital de ensino do mec com contrato de gestao/metas
+672,gestao_metas,tipo_habilitacao,7008,(1),estabelecimento de saude privado ambulatorial com contrato de gestao/metas
+673,gestao_metas,tipo_habilitacao,7003,(1),hospital filantropico com contrato de gestao/metas
+674,gestao_metas,tipo_habilitacao,7006,(1),estabelecimento da rede sarah
+675,gestao_metas,tipo_habilitacao,7009,(1),estabelecimento de saude privado hospitalar com contrato de gestao/metas
+676,gestao_metas,tipo_gestao_metas,2,(1),local
+677,gestao_metas,tipo_gestao_metas,1,(1),federal
+678,estabelecimento,tipo_turno,4,(1),atendimento somente pela manha
+679,estabelecimento,tipo_turno,5,(1),atendimento somente a tarde
+680,estabelecimento,tipo_turno,99,(1),turno nao informado
+681,estabelecimento,tipo_turno,6,(1),atendimento turnos manha/tarde
+682,estabelecimento,tipo_turno,7,(1),atendimento somente a noite
+683,estabelecimento,tipo_turno,1,(1),atendimento turnos intermitentes
+684,estabelecimento,tipo_turno,3,(1),atendimento turnos manha/tarde/noite
+685,estabelecimento,tipo_turno,2,(1),atendimento continuo 24 horas/dia
+686,estabelecimento,tipo_gestao,S,(1),sem gestao
+687,estabelecimento,tipo_gestao,E,(1),estadual
+688,estabelecimento,tipo_gestao,M,(1),municipal
+689,estabelecimento,tipo_gestao,Z,(1),nao informado
+690,estabelecimento,tipo_gestao,D,(1),dupla
+691,estabelecimento,tipo_pessoa,3,(1),juridica
+692,estabelecimento,tipo_pessoa,1,(1),fisica
+693,estabelecimento,tipo_unidade,4,(1),policlincia
+694,estabelecimento,tipo_unidade,64,(1),central de regulacao de servicos de saude
+695,estabelecimento,tipo_unidade,32,(1),unidade movel fluvial
+696,estabelecimento,tipo_unidade,20,(1),pronto socorro geral
+697,estabelecimento,tipo_unidade,7,(1),hospital especializado
+698,estabelecimento,tipo_unidade,1,(1),posto de saude
+699,estabelecimento,tipo_unidade,22,(1),consultorio isolado
+700,estabelecimento,tipo_unidade,72,(1),unidade de atencao a saude indigena
+701,estabelecimento,tipo_unidade,5,(1),hospital geral
+702,estabelecimento,tipo_unidade,69,(1),centro de atencao hemoterapica e/ou hematologica
+703,estabelecimento,tipo_unidade,62,(1),hospital/dia isolado
+704,estabelecimento,tipo_unidade,50,(1),unidade de vigilancia em saude
+705,estabelecimento,tipo_unidade,71,(1),centro de apoio a saude da familia
+706,estabelecimento,tipo_unidade,75,(1),teles saude
+707,estabelecimento,tipo_unidade,43,(1),farmacia
+708,estabelecimento,tipo_unidade,74,(1),polo academia da saude
+709,estabelecimento,tipo_unidade,70,(1),centro de atencao psicossocial
+710,estabelecimento,tipo_unidade,2,(1),centro de saude/unidade basica de saude
+711,estabelecimento,tipo_unidade,15,(1),unidade mista
+712,estabelecimento,tipo_unidade,60,(1),cooperativa
+713,estabelecimento,tipo_unidade,61,(1),centro de parto normal isolado
+714,estabelecimento,tipo_unidade,40,(1),unidade movel terrestre
+715,estabelecimento,tipo_unidade,67,(1),laboratorio central de saude publica - lacen
+716,estabelecimento,tipo_unidade,73,(1),pronto atendimento
+717,estabelecimento,tipo_unidade,39,(1),unidade de servicos de apoio de diagnose e terapia
+718,estabelecimento,tipo_unidade,76,(1),central de regulacao media de urgencias
+719,estabelecimento,tipo_unidade,68,(1),secretaria de saude
+720,estabelecimento,tipo_unidade,21,(1),pronto socorro especializado
+721,estabelecimento,tipo_unidade,36,(1),clinica especializada/ambulatorio especializado
+722,estabelecimento,tipo_unidade,42,(1),unidade movel de nivel pre-hospitalar na area de urgencia
+723,estabelecimento,tipo_prestador,40,(1),publico  estadual
+724,estabelecimento,tipo_prestador,22,(1),privado optante pelos simples
+725,estabelecimento,tipo_prestador,80,(1),sindicato
+726,estabelecimento,tipo_prestador,30,(1),publico federal
+727,estabelecimento,tipo_prestador,20,(1),privado com fins lucrativos
+728,estabelecimento,tipo_prestador,99,(1),tipo de prestador nao informado
+729,estabelecimento,tipo_prestador,50,(1),publico  municipal
+730,estabelecimento,tipo_prestador,61,(1),filantropico com cnas valido
+731,estabelecimento,tipo_prestador,60,(1),privado sem fins lucrativos
+732,estabelecimento,avaliacao_pnass,1,(1),sim
+733,estabelecimento,avaliacao_pnass,2,(1),nao
+734,estabelecimento,tipo_orgao_expedidor,2,(1),sms
+735,estabelecimento,tipo_orgao_expedidor,1,(1),ses
+736,estabelecimento,tipo_grau_dependencia,1,(1),individual
+737,estabelecimento,tipo_grau_dependencia,3,(1),mantida
+738,estabelecimento,tipo_nivel_hierarquia,2,(1),mediam1
+739,estabelecimento,tipo_nivel_hierarquia,5,(1),baixa m1 e m2
+740,estabelecimento,tipo_nivel_hierarquia,7,(1),media m3
+741,estabelecimento,tipo_nivel_hierarquia,1,(1),pab-paba
+742,estabelecimento,tipo_nivel_hierarquia,99,(1),nao informado
+743,estabelecimento,tipo_nivel_hierarquia,6,(1),media m2 e m3
+744,estabelecimento,tipo_nivel_hierarquia,3,(1),media m2 e m3
+745,estabelecimento,tipo_nivel_hierarquia,8,(1),alta complexidade hospitalar/ambulatorial
+746,estabelecimento,tipo_nivel_hierarquia,4,(1),alta complexidade ambulatorial
+747,estabelecimento,tipo_fluxo_atendimento,1,(1),atendimento de demanda espontanea
+748,estabelecimento,tipo_fluxo_atendimento,0,(1),fluxo de clientela nao exigido
+749,estabelecimento,tipo_fluxo_atendimento,2,(1),atendimento de demanda referenciada
+750,estabelecimento,tipo_fluxo_atendimento,3,(1),atendimento de demanda espontanea e referenciada
+751,estabelecimento,tipo_fluxo_atendimento,99,(1),fluxo de clientela nao informado
+752,estabelecimento,tipo_retencao_tributos,12,(1),estabelecimento sem fins lucrativos
+753,estabelecimento,tipo_retencao_tributos,15,(1),estabelecimento sindical
+754,estabelecimento,tipo_retencao_tributos,10,(1),estabelecimento publico
+755,estabelecimento,tipo_retencao_tributos,0,(1),retencao estab. nao informada
+756,estabelecimento,tipo_retencao_tributos,99,(1),retencao estab. nao informada
+757,estabelecimento,tipo_retencao_tributos,11,(1),estabelecimento filantropico
+758,estabelecimento,tipo_retencao_tributos,16,(1),estabelecimento pessoa fisica
+759,estabelecimento,tipo_retencao_tributos,13,(1),estabelecimento privado lucrativa simples
+760,estabelecimento,tipo_retencao_tributos,14,(1),estabelecimento privado lucrativa
+761,estabelecimento,tipo_esfera_administrativa,99,(1),esfera nao  informada
+762,estabelecimento,tipo_esfera_administrativa,4,(1),privada
+763,estabelecimento,tipo_esfera_administrativa,1,(1),federal
+764,estabelecimento,tipo_esfera_administrativa,2,(1),estadual
+765,estabelecimento,tipo_esfera_administrativa,3,(1),municipal
+766,estabelecimento,tipo_natureza_administrativa,7,(1),empresa privada
+767,estabelecimento,tipo_natureza_administrativa,8,(1),fundacao privada
+768,estabelecimento,tipo_natureza_administrativa,0,(1),natureza inexistente
+769,estabelecimento,tipo_natureza_administrativa,9,(1),cooperativa
+770,estabelecimento,tipo_natureza_administrativa,12,(1),economia mista
+771,estabelecimento,tipo_natureza_administrativa,5,(1),adm indireta - empresa publica
+772,estabelecimento,tipo_natureza_administrativa,11,(1),entidade beneficente sem fins lucrativos
+773,estabelecimento,tipo_natureza_administrativa,6,(1),adm indireta - organizacao social publica
+774,estabelecimento,tipo_natureza_administrativa,99,(1),natureza nao informada
+775,estabelecimento,tipo_natureza_administrativa,10,(1),servico social autonomo
+776,estabelecimento,tipo_natureza_administrativa,2,(1),adm direta outros orgaos (mex
+777,estabelecimento,tipo_natureza_administrativa,3,(1),adm indireta - autarquias
+778,estabelecimento,tipo_natureza_administrativa,4,(1),adm indireta - fundacao publica
+779,estabelecimento,tipo_natureza_administrativa,1,(1),administracao direta da saude (ms
+780,estabelecimento,tipo_natureza_administrativa,13,(1),sindicato
+781,estabelecimento,tipo_atividade_ensino_pesquisa,3,(1),unidade auxiliar de ensino
+782,estabelecimento,tipo_atividade_ensino_pesquisa,2,(1),unidade escola superior isolada
+783,estabelecimento,tipo_atividade_ensino_pesquisa,4,(1),unidade sem atividade de ensino
+784,estabelecimento,tipo_atividade_ensino_pesquisa,1,(1),unidade universitaria
+785,estabelecimento,tipo_atividade_ensino_pesquisa,99,(1),atividade ensino nao informada
+786,estabelecimento,tipo_atividade_ensino_pesquisa,5,(1),hospital de ensino
+787,estabelecimento,tipo_retencao_tributos_mantenedora,15,(1),estabelecimento sindical
+788,estabelecimento,tipo_retencao_tributos_mantenedora,19,(1),estabelecimento ret.manten. codigo 19
+789,estabelecimento,tipo_retencao_tributos_mantenedora,12,(1),estabelecimento sem fins lucrativos
+790,estabelecimento,tipo_retencao_tributos_mantenedora,10,(1),estabelecimento publico
+791,estabelecimento,tipo_retencao_tributos_mantenedora,IR,(1),estabelecimento ret.manten. codigo  ir
+792,estabelecimento,tipo_retencao_tributos_mantenedora,11,(1),estabelecimento filantropico
+793,estabelecimento,tipo_retencao_tributos_mantenedora,13,(1),estabelecimento privado lucrativa simples
+794,estabelecimento,tipo_retencao_tributos_mantenedora,14,(1),estabelecimento privado lucrativa
+795,estabelecimento,tipo_retencao_tributos_mantenedora,16,(1),estabelecimento pessoa fisica
+796,estabelecimento,tipo_avaliacao_acreditacao_hospitalar,2,(1),nao
+797,estabelecimento,tipo_avaliacao_acreditacao_hospitalar,1,(1),sim
+798,estabelecimento,tipo_classificacao_acreditacao_hospitalar,9,(1),nivel avaliacaoo nao informado
+799,estabelecimento,tipo_classificacao_acreditacao_hospitalar,0,(1),nao atendeu aos padroes minimos
+800,estabelecimento,tipo_classificacao_acreditacao_hospitalar,1,(1),acreditado no nivel 1
+801,estabelecimento,tipo_classificacao_acreditacao_hospitalar,3,(1),acreditado no nivel 3
+802,estabelecimento,tipo_classificacao_acreditacao_hospitalar,2,(1),acreditado no nivel 2
+803,regra_contratual,tipo_habilitacao,7118,(1),estabelecimento sem geracao de credito total
+804,regra_contratual,tipo_habilitacao,7114,(1),estabelecimento de saude sem geracao de credito total
+805,regra_contratual,tipo_habilitacao,7117,(1),estabelecimento de saude sem geracao de credito na media complexidade (exceto opm) - cer
+806,regra_contratual,tipo_habilitacao,7103,(1),estabelecimento de saude sem geracao de credito na alta complexidade ambulatorial
+807,regra_contratual,tipo_habilitacao,7101,(1),estabelecimento de saude sem geracao de credito na media complexidade ambulatorial
+808,regra_contratual,tipo_habilitacao,7100,(1),tabela de regras contratuais para nao geracao de credito por producao na internacao e/ou ambulatorio
+809,regra_contratual,tipo_habilitacao,7102,(1),estabelecimento de saude sem geracao de credito na media complexidade hospitalar incluindo opm e demais procedimentos especiais
+810,regra_contratual,tipo_habilitacao,7116,(1),estabelecimento de saude sem geracao de credito na media complexidade - lrpd
+811,regra_contratual,tipo_habilitacao,7107,(1),estabelecimento de saude sem geracao de credito nas acoes especializadas de odontologia(incentivo ceo i
+812,regra_contratual,tipo_habilitacao,7113,(1),estabelecimento de saude sem geracao de credito total
+813,regra_contratual,tipo_habilitacao,7104,(1),estabelecimento de saude sem geracao de credito na alta complexidade hospitalar incluindo opm e demais procedimentos especiais
+814,regra_contratual,tipo_habilitacao,7112,(1),estabelecimento de saude sem geracao de credito total
+815,regra_contratual,tipo_habilitacao,7109,(1),estabelecimento de saude sem geracao de credito total - hu/mec
+816,regra_contratual,tipo_habilitacao,7115,(1),estabelecimento de saude sem geracao de credito na media complexidade - hu/mec
+817,regra_contratual,tipo_habilitacao,7105,(1),estabelecimento de saude sem geracao de credito para os procedimentos financiados com o fundo de acoes estrategicas e compensacao
+818,regra_contratual,tipo_habilitacao,7110,(1),estabelecimento de saude da estrutura do ministerio da saude - sem geracao de credito total
+819,regra_contratual,tipo_habilitacao,7111,(1),estabelecimento de saude sem geracao de credito - nasf
+820,regra_contratual,tipo_habilitacao,7108,(1),estabelecimento de saude sem geracao de credito (incentivo saude do trabalhador)
+821,regra_contratual,tipo_habilitacao,7106,(1),estabelecimento de saude sem geracao de credito total
+822,regra_contratual,tipo_regra_contratual,1,(1),federal
+823,regra_contratual,tipo_regra_contratual,2,(1),local
+824,servico_especializado,tipo_classificacao_bd,103004,(1),aeronave de asa rotativa de transporte medico
+825,servico_especializado,tipo_classificacao_bd,105008,(1),neurocirurgia funcional estereotaxica
+826,servico_especializado,tipo_classificacao_bd,108001,(1),atendimentoacompanhamento em saude do trabalhador
+827,servico_especializado,tipo_classificacao_bd,131003,(1),tratamento cirurgico do aparelho da visao
+828,servico_especializado,tipo_classificacao_bd,142001,(1),do aparelho digestivo
+829,servico_especializado,tipo_classificacao_bd,150001,(1),fistula arteriovenosa sem enxerto
+830,servico_especializado,tipo_classificacao_bd,152004,(1),saneamento a populacoes indigenas
+831,servico_especializado,tipo_classificacao_bd,163003,(1),pediatrico
+832,servico_especializado,tipo_classificacao_bd,165001,(1),atencao integral as pessoas em situacao de violencia sexual
+833,servico_especializado,tipo_classificacao_bd,112005,(1),centro de parto normal
+834,servico_especializado,tipo_classificacao_bd,116005,(1),cardiologia intervencionista (hemodinamica)
+835,servico_especializado,tipo_classificacao_bd,140011,(1),pronto atendimento odontologico
+836,servico_especializado,tipo_classificacao_bd,165006,(1),atencao a interrupcao de gravidez nos casos previstos em lei
+837,servico_especializado,tipo_classificacao_bd,165005,(1),atencao integral a idosos em situacao de violencia sexual
+838,servico_especializado,tipo_classificacao_bd,122005,(1),teste ergometrico por telemedicina
+839,servico_especializado,tipo_classificacao_bd,136002,(1),enteral  parenteral
+840,servico_especializado,tipo_classificacao_bd,136003,(1),enteral  parenteral com manipulacao fabricacao
+841,servico_especializado,tipo_classificacao_bd,139004,(1),tratamento recem nascido com outras doencas congenitas
+842,servico_especializado,tipo_classificacao_bd,140014,(1),pronto socorro cardiovascular
+843,servico_especializado,tipo_classificacao_bd,103005,(1),unidade de suporte basico de vida: equipe embarcacao
+844,servico_especializado,tipo_classificacao_bd,105004,(1),neurocirurgia vascular
+845,servico_especializado,tipo_classificacao_bd,105003,(1),tumores do sistema nervoso
+846,servico_especializado,tipo_classificacao_bd,125003,(1),farmacia com manipulacao homeopatica
+847,servico_especializado,tipo_classificacao_bd,140016,(1),pronto socorro traumato ortopedico
+848,servico_especializado,tipo_classificacao_bd,163001,(1),neonatal convencional
+849,servico_especializado,tipo_classificacao_bd,122004,(1),exame eletroencefalografico
+850,servico_especializado,tipo_classificacao_bd,145013,(1),exames imunohematologicos
+851,servico_especializado,tipo_classificacao_bd,169001,(1),urologia geral
+852,servico_especializado,tipo_classificacao_bd,114002,(1),endodontia
+853,servico_especializado,tipo_classificacao_bd,116004,(1),cirurgia vascular
+854,servico_especializado,tipo_classificacao_bd,126005,(1),assistencia fisioterapeutica nas disfuncoes musculo esquelet
+855,servico_especializado,tipo_classificacao_bd,135012,(1),atencao a saude das pessoas ostomizadas i
+856,servico_especializado,tipo_classificacao_bd,140010,(1),pronto atendimento oftalmologico
+857,servico_especializado,tipo_classificacao_bd,160001,(1),teleconsultoria assincrona
+858,servico_especializado,tipo_classificacao_bd,103009,(1),aeronave de asa fixa de transporte medico
+859,servico_especializado,tipo_classificacao_bd,109001,(1),unidade socioeducativa com ate 40 adolescentes
+860,servico_especializado,tipo_classificacao_bd,115008,(1),unidade de atencao em regime residencial
+861,servico_especializado,tipo_classificacao_bd,121002,(1),ultrasonografia
+862,servico_especializado,tipo_classificacao_bd,131005,(1),diagnostico em oftalmologia por telemedicina
+863,servico_especializado,tipo_classificacao_bd,131007,(1),projeto olhar brasil - programa brasil alfabetizado
+864,servico_especializado,tipo_classificacao_bd,134013,(1),ozonioterapia
+865,servico_especializado,tipo_classificacao_bd,140017,(1),pronto socorro odontologico
+866,servico_especializado,tipo_classificacao_bd,107002,(1),servico de atencao a saude auditiva na alta complexidade
+867,servico_especializado,tipo_classificacao_bd,121010,(1),ressonancia magnetica por telemedicina
+868,servico_especializado,tipo_classificacao_bd,125004,(1),dispensacao de medicamentos estrategicos
+869,servico_especializado,tipo_classificacao_bd,135004,(1),reabilitacao visual / mental / multiplas deficiencias
+870,servico_especializado,tipo_classificacao_bd,140005,(1),atendimento ao paciente com acidente vascular cerebral (avc)
+871,servico_especializado,tipo_classificacao_bd,140001,(1),pronto socorro geral
+872,servico_especializado,tipo_classificacao_bd,152001,(1),atencao basica a populacoes indigenas
+873,servico_especializado,tipo_classificacao_bd,160002,(1),teleconsultoria sincrona
+874,servico_especializado,tipo_classificacao_bd,126002,(1),assistencia fisioterapeutica em alteracoes oncologicas
+875,servico_especializado,tipo_classificacao_bd,126006,(1),assistencia fisioterapeutica em queimados
+876,servico_especializado,tipo_classificacao_bd,154001,(1),banco de valvula cardiaca humana
+877,servico_especializado,tipo_classificacao_bd,162003,(1),pediatrico
+878,servico_especializado,tipo_classificacao_bd,122012,(1),potenciais evocados por telemedicina
+879,servico_especializado,tipo_classificacao_bd,134001,(1),acupuntura
+880,servico_especializado,tipo_classificacao_bd,164004,(1),manutencao e adaptacao de opm ortopedica
+881,servico_especializado,tipo_classificacao_bd,167004,(1),oftalmologia - projeto brasil alfabetizado (pba)
+882,servico_especializado,tipo_classificacao_bd,104008,(1),regulacao ambulatorial de media complexidade
+883,servico_especializado,tipo_classificacao_bd,107007,(1),diagnostico em audiologia/otologia por telemedicina
+884,servico_especializado,tipo_classificacao_bd,112001,(1),acompanhamento do pre-natal de risco habitual
+885,servico_especializado,tipo_classificacao_bd,122010,(1),exame videoeletroencefalografia
+886,servico_especializado,tipo_classificacao_bd,140006,(1),pronto atendimento clinico
+887,servico_especializado,tipo_classificacao_bd,140013,(1),pronto socorro obstetrico
+888,servico_especializado,tipo_classificacao_bd,140018,(1),pronto socorro oftalmologico
+889,servico_especializado,tipo_classificacao_bd,145007,(1),exames de vigilancia epidemiologica e ambiental
+890,servico_especializado,tipo_classificacao_bd,168001,(1),atencao especializada em doencas raras
+891,servico_especializado,tipo_classificacao_bd,103006,(1),veiculos de intervencao rapida
+892,servico_especializado,tipo_classificacao_bd,113002,(1),internacao domiciliar
+893,servico_especializado,tipo_classificacao_bd,118001,(1),cirurgia toracica
+894,servico_especializado,tipo_classificacao_bd,123013,(1),opm- proj.olhar brasil-pse
+895,servico_especializado,tipo_classificacao_bd,128001,(1),procedimentos destinados a obtencao do sangue pfins de assi
+896,servico_especializado,tipo_classificacao_bd,130006,(1),tratamento pre dialitico
+897,servico_especializado,tipo_classificacao_bd,149014,(1),acompanhamento de paciente transplantado
+898,servico_especializado,tipo_classificacao_bd,104003,(1),central de regulacao das urgencias
+899,servico_especializado,tipo_classificacao_bd,107001,(1),servico de atencao a saude auditiva na media complexidade
+900,servico_especializado,tipo_classificacao_bd,114005,(1),cirurgia oral
+901,servico_especializado,tipo_classificacao_bd,114004,(1),moldagemmanutencao
+902,servico_especializado,tipo_classificacao_bd,132001,(1),oncologia pediatrica
+903,servico_especializado,tipo_classificacao_bd,149015,(1),acoes para doacao e captacao de orgaos e tecidos
+904,servico_especializado,tipo_classificacao_bd,126001,(1),assistencia fisioterapeutica em alteracoes obstetricas neon
+905,servico_especializado,tipo_classificacao_bd,152009,(1),gestao da atencao e saneamento a populacoes indigenas
+906,servico_especializado,tipo_classificacao_bd,164002,(1),manutencao e adaptacao de opm auxiliares de locomocao
+907,servico_especializado,tipo_classificacao_bd,106001,(1),centro de testagem e aconselhamento - cta
+908,servico_especializado,tipo_classificacao_bd,121013,(1),mamografia por telemedicina
+909,servico_especializado,tipo_classificacao_bd,125007,(1),farmacia viva
+910,servico_especializado,tipo_classificacao_bd,126003,(1),assistencia fisioterapeutica em oftalmologia
+911,servico_especializado,tipo_classificacao_bd,136001,(1),enteral
+912,servico_especializado,tipo_classificacao_bd,140009,(1),pronto atendimento psiquiatrico
+913,servico_especializado,tipo_classificacao_bd,145011,(1),exames de genetica
+914,servico_especializado,tipo_classificacao_bd,167002,(1),odontologia - projeto brasil alfabetizado (pba)
+915,servico_especializado,tipo_classificacao_bd,168002,(1),referencia em doencas raras
+916,servico_especializado,tipo_classificacao_bd,106002,(1),servico de atencao especializada - sae
+917,servico_especializado,tipo_classificacao_bd,122006,(1),teste holter por telemedicina
+918,servico_especializado,tipo_classificacao_bd,140008,(1),pronto atendimento obstetrico
+919,servico_especializado,tipo_classificacao_bd,145009,(1),exames microbiologicos
+920,servico_especializado,tipo_classificacao_bd,104007,(1),regulacao nacional de alta complexidade
+921,servico_especializado,tipo_classificacao_bd,107003,(1),terapia fonoaudiologica
+922,servico_especializado,tipo_classificacao_bd,109002,(1),unidade socioeducativas de 41 a 100 adolescentes
+923,servico_especializado,tipo_classificacao_bd,112003,(1),parto em gestacao de risco habitual
+924,servico_especializado,tipo_classificacao_bd,113003,(1),equipe multidisciplinar de atenã§ã£o domiciliar - emad
+925,servico_especializado,tipo_classificacao_bd,121001,(1),radiologia
+926,servico_especializado,tipo_classificacao_bd,121009,(1),tomografia computadorizada por telemedicina
+927,servico_especializado,tipo_classificacao_bd,122003,(1),exame  eletrocardiografico
+928,servico_especializado,tipo_classificacao_bd,122002,(1),teste de holter
+929,servico_especializado,tipo_classificacao_bd,132003,(1),oncologia clinica
+930,servico_especializado,tipo_classificacao_bd,134002,(1),fitoterapia
+931,servico_especializado,tipo_classificacao_bd,107008,(1),atencao especializada as pessoas com deficiencia auditiva
+932,servico_especializado,tipo_classificacao_bd,115005,(1),servico residencial terapeutico tipo ii - srt tipo ii
+933,servico_especializado,tipo_classificacao_bd,125001,(1),disp. de med. comp. especializado da assist. farmaceutica
+934,servico_especializado,tipo_classificacao_bd,129001,(1),exames de histocompatibilidade  por meio sorologia
+935,servico_especializado,tipo_classificacao_bd,130005,(1),tratamento dialitico-peritoneal
+936,servico_especializado,tipo_classificacao_bd,135001,(1),reabilitacao visual
+937,servico_especializado,tipo_classificacao_bd,145002,(1),exames hematologicos e hemostasia
+938,servico_especializado,tipo_classificacao_bd,162004,(1),queimados
+939,servico_especializado,tipo_classificacao_bd,103007,(1),outros veiculos
+940,servico_especializado,tipo_classificacao_bd,103012,(1),suporte avancado de vida: equipe aeromedica
+941,servico_especializado,tipo_classificacao_bd,105001,(1),neurocirurgia do trauma e anomalias do desenvolvimento
+942,servico_especializado,tipo_classificacao_bd,115006,(1),ua adulto
+943,servico_especializado,tipo_classificacao_bd,121012,(1),mamografia
+944,servico_especializado,tipo_classificacao_bd,121003,(1),tomografia computadorizada
+945,servico_especializado,tipo_classificacao_bd,124001,(1),diagnosticotratamento das doencas endocrinas metabolicas e
+946,servico_especializado,tipo_classificacao_bd,145001,(1),exames bioquimicos
+947,servico_especializado,tipo_classificacao_bd,145012,(1),exames para triagem neonatal
+948,servico_especializado,tipo_classificacao_bd,152010,(1),saude bucal a populacao indigena
+949,servico_especializado,tipo_classificacao_bd,109003,(1),unidade socioeducativa de 101a 180 adolescentes
+950,servico_especializado,tipo_classificacao_bd,122008,(1),exame eletroencefalografico por telemedicina
+951,servico_especializado,tipo_classificacao_bd,122011,(1),potenciais evocados
+952,servico_especializado,tipo_classificacao_bd,126007,(1),assistencia fisioterapeutica nas alteracoes em neurologia
+953,servico_especializado,tipo_classificacao_bd,130001,(1),tratamento dialitico-hemodialise
+954,servico_especializado,tipo_classificacao_bd,134005,(1),homeopatia
+955,servico_especializado,tipo_classificacao_bd,145008,(1),exames toxicologicos ou de monitorizacao terapeutica
+956,servico_especializado,tipo_classificacao_bd,156002,(1),atencao as pessoas ostomizadas ii
+957,servico_especializado,tipo_classificacao_bd,108002,(1),centro de referencia em saude do trabalhador cerest estadua
+958,servico_especializado,tipo_classificacao_bd,109004,(1),unidade socioeducativa com mais de 180  adolescentes
+959,servico_especializado,tipo_classificacao_bd,110002,(1),contracepcao clinica
+960,servico_especializado,tipo_classificacao_bd,120003,(1),monitoram ext da qualidade exames citopatologicos colo utero
+961,servico_especializado,tipo_classificacao_bd,131002,(1),tratamento clinico do aparelho da visao
+962,servico_especializado,tipo_classificacao_bd,133002,(1),diagnostico em pneumologia
+963,servico_especializado,tipo_classificacao_bd,142004,(1),do aparelho ginecologico
+964,servico_especializado,tipo_classificacao_bd,164006,(1),manutencao e adaptacao de opm auditiva
+965,servico_especializado,tipo_classificacao_bd,105007,(1),tratamento endovascular
+966,servico_especializado,tipo_classificacao_bd,106004,(1),assistencia domiciliar terapeutica em aids-adt
+967,servico_especializado,tipo_classificacao_bd,135003,(1),reabilitacao fisica
+968,servico_especializado,tipo_classificacao_bd,144001,(1),coleta realizada fora da estrutura laboratorial
+969,servico_especializado,tipo_classificacao_bd,146002,(1),cirurgica
+970,servico_especializado,tipo_classificacao_bd,165007,(1),atenc ambulatorial a pessoas em situacao de violencia sexual
+971,servico_especializado,tipo_classificacao_bd,140007,(1),pronto atendimento pediatrico
+972,servico_especializado,tipo_classificacao_bd,162005,(1),doenca coronariana (uco)
+973,servico_especializado,tipo_classificacao_bd,167003,(1),oftalmologia - projeto saude na escola (pse)
+974,servico_especializado,tipo_classificacao_bd,103002,(1),unidade de suporte basico de vida terrestre (usb)
+975,servico_especializado,tipo_classificacao_bd,116006,(1),cardiologia endovascular extracardiaco
+976,servico_especializado,tipo_classificacao_bd,146001,(1),diagnostica
+977,servico_especializado,tipo_classificacao_bd,103010,(1),motolancia
+978,servico_especializado,tipo_classificacao_bd,115007,(1),ua infantojuvenil
+979,servico_especializado,tipo_classificacao_bd,121008,(1),ultra-sonografia por telemedicina
+980,servico_especializado,tipo_classificacao_bd,122007,(1),exame eletrocardiografico por telemedicina
+981,servico_especializado,tipo_classificacao_bd,122001,(1),teste ergometrico
+982,servico_especializado,tipo_classificacao_bd,133003,(1),diagnostico em pneumologia por telemedicina
+983,servico_especializado,tipo_classificacao_bd,123014,(1),opm- proj.olhar brasil-pba
+984,servico_especializado,tipo_classificacao_bd,116002,(1),cirurgia cardiovascular (adulto)
+985,servico_especializado,tipo_classificacao_bd,142002,(1),do aparelho respiratorio
+986,servico_especializado,tipo_classificacao_bd,145004,(1),exames coprologicos
+987,servico_especializado,tipo_classificacao_bd,156001,(1),atencao as pessoas ostomizadas i
+988,servico_especializado,tipo_classificacao_bd,106005,(1),unidade dispensadora de medicamentos - udm
+989,servico_especializado,tipo_classificacao_bd,112002,(1),acompanhamento do pre-natal de alto risco
+990,servico_especializado,tipo_classificacao_bd,114007,(1),atendimento a pessoa com deficiencia
+991,servico_especializado,tipo_classificacao_bd,130004,(1),tratamento nefrologia em geral
+992,servico_especializado,tipo_classificacao_bd,140004,(1),estabilizacao de paciente critico/grave em sala de estabiliz
+993,servico_especializado,tipo_classificacao_bd,140015,(1),pronto socorro neurologia/neurocirurgia
+994,servico_especializado,tipo_classificacao_bd,153002,(1),cirurgia e acompanhamento pre e pos-operatorio
+995,servico_especializado,tipo_classificacao_bd,104009,(1),regulacao ambulatorial de alta complexidade
+996,servico_especializado,tipo_classificacao_bd,116003,(1),cirurgia cardiovascular (pediatrico)
+997,servico_especializado,tipo_classificacao_bd,135008,(1),oficina ortopedica itinerante terrestre
+998,servico_especializado,tipo_classificacao_bd,149005,(1),cornea/esclera
+999,servico_especializado,tipo_classificacao_bd,163002,(1),neonatal canguru
+1000,servico_especializado,tipo_classificacao_bd,103001,(1),ambulancia de transporte
+1001,servico_especializado,tipo_classificacao_bd,116007,(1),cardiologia clinica
+1002,servico_especializado,tipo_classificacao_bd,105005,(1),tratamento neurocirurgico da dor funcional
+1003,servico_especializado,tipo_classificacao_bd,162001,(1),adulto
+1004,servico_especializado,tipo_classificacao_bd,100001,(1),atendimento em presidio ate 100 presos
+1005,servico_especializado,tipo_classificacao_bd,104006,(1),regulacao estadual de alta complexidade
+1006,servico_especializado,tipo_classificacao_bd,121011,(1),radiologia intervencionista por telemedicina
+1007,servico_especializado,tipo_classificacao_bd,124002,(1),cirurgia de glandulas endocrinas
+1008,servico_especializado,tipo_classificacao_bd,128002,(1),diagnostico em hemoterapia
+1009,servico_especializado,tipo_classificacao_bd,131006,(1),projeto olhar brasil - programa saude na escola
+1010,servico_especializado,tipo_classificacao_bd,133001,(1),tratamento de doencas das vias aereas inferiores
+1011,servico_especializado,tipo_classificacao_bd,135010,(1),atencao fonoaudiologica
+1012,servico_especializado,tipo_classificacao_bd,142003,(1),do aparelho urinario
+1013,servico_especializado,tipo_classificacao_bd,155001,(1),servico de traumatologia e ortopedia
+1014,servico_especializado,tipo_classificacao_bd,100004,(1),atendimento em manicomio acima 100 presos
+1015,servico_especializado,tipo_classificacao_bd,140002,(1),pronto socorro especializado
+1016,servico_especializado,tipo_classificacao_bd,155003,(1),servico de traumatologia e ortopedia de urgencia
+1017,servico_especializado,tipo_classificacao_bd,117001,(1),tratamento da lipodistrofia do portador de hivaids
+1018,servico_especializado,tipo_classificacao_bd,140012,(1),pronto socorro pediatrico
+1019,servico_especializado,tipo_classificacao_bd,106003,(1),centro de referencia e treinamento - crt
+1020,servico_especializado,tipo_classificacao_bd,108003,(1),vigilancia em saude do trabalhador (visat)
+1021,servico_especializado,tipo_classificacao_bd,121007,(1),radiologia por telemedicina
+1022,servico_especializado,tipo_classificacao_bd,165002,(1),atencao integral a adolecentes emsituacaode violencia sexual
+1023,servico_especializado,tipo_classificacao_bd,100002,(1),atendimento em manicomio ate 100 presos
+1024,servico_especializado,tipo_classificacao_bd,115002,(1),atendimento psicossocial
+1025,servico_especializado,tipo_classificacao_bd,132005,(1),oncologia cirurgica
+1026,servico_especializado,tipo_classificacao_bd,139003,(1),tratamento recemnascido  fibrose cistica
+1027,servico_especializado,tipo_classificacao_bd,100003,(1),atendimento em presidio acima 100 presos
+1028,servico_especializado,tipo_classificacao_bd,105006,(1),investigacao e cirurgia de epilepsia
+1029,servico_especializado,tipo_classificacao_bd,117002,(1),tratamento em queimados
+1030,servico_especializado,tipo_classificacao_bd,120001,(1),exames anatomopatologicos
+1031,servico_especializado,tipo_classificacao_bd,125002,(1),farmacia popular
+1032,servico_especializado,tipo_classificacao_bd,135007,(1),oficina ortopedica fixa
+1033,servico_especializado,tipo_classificacao_bd,145006,(1),exames hormonais
+1034,servico_especializado,tipo_classificacao_bd,157001,(1),laboratorio regional de protese dentaria
+1035,servico_especializado,tipo_classificacao_bd,103008,(1),ambulancia de resgate
+1036,servico_especializado,tipo_classificacao_bd,121006,(1),radiologia intervencionista
+1037,servico_especializado,tipo_classificacao_bd,121004,(1),ressonancia magnetica
+1038,servico_especializado,tipo_classificacao_bd,128004,(1),medicina transfusional
+1039,servico_especializado,tipo_classificacao_bd,132002,(1),hematologia
+1040,servico_especializado,tipo_classificacao_bd,120002,(1),exames citopatologicos
+1041,servico_especializado,tipo_classificacao_bd,126008,(1),diagnostico cinetico funcional
+1042,servico_especializado,tipo_classificacao_bd,129002,(1),exames de histocompatibilidade  por sorologia e biologia
+1043,servico_especializado,tipo_classificacao_bd,151002,(1),medicina nuclear in vitro
+1044,servico_especializado,tipo_classificacao_bd,107005,(1),implante coclear
+1045,servico_especializado,tipo_classificacao_bd,114003,(1),periodontia clinica
+1046,servico_especializado,tipo_classificacao_bd,125006,(1),farmacia hospitalar
+1047,servico_especializado,tipo_classificacao_bd,139002,(1),tratamento recem nascido doencas falciformes
+1048,servico_especializado,tipo_classificacao_bd,152008,(1),hospitalidade indigena
+1049,servico_especializado,tipo_classificacao_bd,169002,(1),litotripsia
+1050,servico_especializado,tipo_classificacao_bd,105002,(1),coluna e nervos perifericos
+1051,servico_especializado,tipo_classificacao_bd,105009,(1),polissonografia
+1052,servico_especializado,tipo_classificacao_bd,111002,(1),tratamento multidrogas resistentes
+1053,servico_especializado,tipo_classificacao_bd,115001,(1),residencia terapeutica em saude mental
+1054,servico_especializado,tipo_classificacao_bd,117003,(1),tratamento da lipoatrofia facial do portador de hivaids
+1055,servico_especializado,tipo_classificacao_bd,149016,(1),retirada de globo ocular humano para transplante
+1056,servico_especializado,tipo_classificacao_bd,167001,(1),odontologia - projeto saude na escola (pse)
+1057,servico_especializado,tipo_classificacao_bd,135013,(1),atencao a saude das pessoas ostomizadas ii
+1058,servico_especializado,tipo_classificacao_bd,145003,(1),exames sorologicos e imunologicos
+1059,servico_especializado,tipo_classificacao_bd,160003,(1),segunda opiniao formativa
+1060,servico_especializado,tipo_classificacao_bd,125005,(1),dispensacao de medicamentos basicos
+1061,servico_especializado,tipo_classificacao_bd,135002,(1),reabilitacao intelectual
+1062,servico_especializado,tipo_classificacao_bd,149012,(1),sep. aval. biomicroscopica e conservacao da cornea/esclera
+1063,servico_especializado,tipo_classificacao_bd,154002,(1),banco de tecido musculo esqueletico
+1064,servico_especializado,tipo_classificacao_bd,155002,(1),servico de traumatologia e ortopedia pediatrica(ate 21 anos)
+1065,servico_especializado,tipo_classificacao_bd,163004,(1),adulto
+1066,servico_especializado,tipo_classificacao_bd,110001,(1),atencao a infertilidade
+1067,servico_especializado,tipo_classificacao_bd,110003,(1),laqueadura
+1068,servico_especializado,tipo_classificacao_bd,111001,(1),diagnostico e tratamento
+1069,servico_especializado,tipo_classificacao_bd,115003,(1),servico hospitalar para atencao a saude mental
+1070,servico_especializado,tipo_classificacao_bd,127001,(1),trat. clinico cirur. reparador e acomp paciente c/ obesidade
+1071,servico_especializado,tipo_classificacao_bd,131001,(1),diagnostico em oftalmologia
+1072,servico_especializado,tipo_classificacao_bd,140019,(1),pronto socorro geral/clinico
+1073,servico_especializado,tipo_classificacao_bd,145005,(1),exames de uroanalise
+1074,servico_especializado,tipo_classificacao_bd,162002,(1),neonatal
+1075,servico_especializado,tipo_classificacao_bd,114001,(1),dentistica
+1076,servico_especializado,tipo_classificacao_bd,116008,(1),angiologia
+1077,servico_especializado,tipo_classificacao_bd,135005,(1),reabilitacao auditiva
+1078,servico_especializado,tipo_classificacao_bd,139001,(1),tratamento recem nascido com hipotireoidismo e fenilcetonuri
+1079,servico_especializado,tipo_classificacao_bd,165008,(1),coleta de vestigios de violencia sexual
+1080,servico_especializado,tipo_classificacao_bd,107006,(1),triagem auditiva neonatal
+1081,servico_especializado,tipo_classificacao_bd,112004,(1),parto em gestacao de alto risco
+1082,servico_especializado,tipo_classificacao_bd,122009,(1),exame eletroneuromiografia
+1083,servico_especializado,tipo_classificacao_bd,126004,(1),assistencia fisioterapeutica cardiovasculares e pneumofunci
+1084,servico_especializado,tipo_classificacao_bd,158001,(1),servico de atencao integral em hanseniase tipo i
+1085,servico_especializado,tipo_classificacao_bd,165004,(1),atencao integral a homens em situacao de violencia sexual
+1086,servico_especializado,tipo_classificacao_bd,107004,(1),diagnostico em audiologia/otologia
+1087,servico_especializado,tipo_classificacao_bd,109005,(1),atencao basica a adolescentes em unidade socioeducativa
+1088,servico_especializado,tipo_classificacao_bd,112006,(1),casa da gestante
+1089,servico_especializado,tipo_classificacao_bd,114006,(1),cirurgia bucomaxilofacial
+1090,servico_especializado,tipo_classificacao_bd,116001,(1),eletrofisiologia
+1091,servico_especializado,tipo_classificacao_bd,130003,(1),confeccao intervencao de acessos para dialise
+1092,servico_especializado,tipo_classificacao_bd,140003,(1),pronto atendimento
+1093,servico_especializado,tipo_classificacao_bd,145010,(1),exames em outros liquidos biologicos
+1094,servico_especializado,tipo_classificacao_bd,165003,(1),atencao integral a criancas em situacao de violencia sexual
+1095,servico_especializado,tipo_classificacao_bd,103003,(1),unidade de suporte avancado de vida terrestre (usa)
+1096,servico_especializado,tipo_classificacao_bd,104001,(1),regulacao de internacao hospitalar
+1097,servico_especializado,tipo_classificacao_bd,128003,(1),procedimentos especiais em hemoterapia
+1098,servico_especializado,tipo_classificacao_bd,132004,(1),radioterapia
+1099,servico_especializado,tipo_classificacao_bd,135009,(1),oficina ortopedica itinerante fluvial
+1100,servico_especializado,tipo_classificacao_bd,150002,(1),fistula arteriovenosa com enxerto
+1101,servico_especializado,tipo_classificacao_bd,158003,(1),servico de atencao integral em hanseniase tipo iii
+1102,servico_especializado,tipo_classificacao_bd,159003,(1),academia da saude
+1103,servico_especializado,tipo_classificacao_bd,103011,(1),unidade de suporte avancado de vida: equipe embarcacao
+1104,servico_especializado,tipo_classificacao_bd,110004,(1),vasectomia
+1105,servico_especializado,tipo_classificacao_bd,113001,(1),assistencia domiciliar
+1106,servico_especializado,tipo_classificacao_bd,119001,(1),abordagem e tratamento  do fumante
+1107,servico_especializado,tipo_classificacao_bd,135011,(1),atencao fisioterapeutica
+1108,servico_especializado,tipo_classificacao_bd,149013,(1),contagem endotelial corneana
+1109,servico_especializado,tipo_classificacao_bd,151001,(1),medicina nuclear in vivo
+1110,servico_especializado,tipo_classificacao_bd,151003,(1),medicina nuclear in vivo por telemedicina
+1111,servico_especializado,tipo_classificacao_bd,158002,(1),servico de atencao integral em hanseniase tipo ii
+1112,servico_especializado,tipo_servico_especializado,131,(1),servico de oftalmologia
+1113,servico_especializado,tipo_servico_especializado,169,(1),atencao em urologia
+1114,servico_especializado,tipo_servico_especializado,111,(1),servico de atencao ao paciente com tuberculose
+1115,servico_especializado,tipo_servico_especializado,129,(1),servico de laboratorio de histocompatibilidade
+1116,servico_especializado,tipo_servico_especializado,174,(1),imunizacao
+1117,servico_especializado,tipo_servico_especializado,107,(1),servico de atencao a saude auditiva
+1118,servico_especializado,tipo_servico_especializado,134,(1),servico de praticas integrativas e complementares
+1119,servico_especializado,tipo_servico_especializado,158,(1),servico de atencao integral em hanseniase
+1120,servico_especializado,tipo_servico_especializado,112,(1),servico de atencao ao pre-natal
+1121,servico_especializado,tipo_servico_especializado,124,(1),servico de endocrinologia
+1122,servico_especializado,tipo_servico_especializado,155,(1),servico de traumatologia e ortopedia
+1123,servico_especializado,tipo_servico_especializado,164,(1),servico de orteses
+1124,servico_especializado,tipo_servico_especializado,148,(1),hospital dia
+1125,servico_especializado,tipo_servico_especializado,159,(1),atencao basica
+1126,servico_especializado,tipo_servico_especializado,108,(1),servico de atencao a saude do trabalhador
+1127,servico_especializado,tipo_servico_especializado,122,(1),servico de diagnostico por metodos graficos dinamicos
+1128,servico_especializado,tipo_servico_especializado,132,(1),servico de oncologia
+1129,servico_especializado,tipo_servico_especializado,104,(1),regulacao do acesso a acoes e servicos de saude
+1130,servico_especializado,tipo_servico_especializado,114,(1),servico de atencao em saude bucal
+1131,servico_especializado,tipo_servico_especializado,139,(1),servico de triagem neonatal
+1132,servico_especializado,tipo_servico_especializado,162,(1),servico de terapia intensiva
+1133,servico_especializado,tipo_servico_especializado,126,(1),servico de fisioterapia
+1134,servico_especializado,tipo_servico_especializado,135,(1),servico de reabilitacao
+1135,servico_especializado,tipo_servico_especializado,163,(1),servico de cuidados intermediarios
+1136,servico_especializado,tipo_servico_especializado,166,(1),serv analise laboratorial de prod sujeitos a vig sanitaria
+1137,servico_especializado,tipo_servico_especializado,143,(1),servico movel de urgencia (exceto samu)
+1138,servico_especializado,tipo_servico_especializado,100,(1),atencao a saude no sistema penitenciario
+1139,servico_especializado,tipo_servico_especializado,117,(1),servico de cirurgia reparadora
+1140,servico_especializado,tipo_servico_especializado,147,(1),servico de apoio a saude da familia
+1141,servico_especializado,tipo_servico_especializado,152,(1),atencao a saude de populacoes indigenas
+1142,servico_especializado,tipo_servico_especializado,118,(1),servico de cirurgia toracica
+1143,servico_especializado,tipo_servico_especializado,153,(1),atencao especializada no processo transexualizador
+1144,servico_especializado,tipo_servico_especializado,115,(1),servico de atencao psicossocial
+1145,servico_especializado,tipo_servico_especializado,121,(1),servico de diagnostico por imagem
+1146,servico_especializado,tipo_servico_especializado,127,(1),servico de atencao a obesidade
+1147,servico_especializado,tipo_servico_especializado,146,(1),servico de videolaparoscopia
+1148,servico_especializado,tipo_servico_especializado,173,(1),logistica de imunobiologicos
+1149,servico_especializado,tipo_servico_especializado,161,(1),consultorio na rua
+1150,servico_especializado,tipo_servico_especializado,105,(1),servico de atencao em neurologia / neurocirurgia
+1151,servico_especializado,tipo_servico_especializado,113,(1),servico de atencao domiciliar
+1152,servico_especializado,tipo_servico_especializado,136,(1),servico de suporte nutricional
+1153,servico_especializado,tipo_servico_especializado,102,(1),estrategia de agentes comunitarios de saude
+1154,servico_especializado,tipo_servico_especializado,106,(1),servico de atencao a dst/hiv/aids
+1155,servico_especializado,tipo_servico_especializado,156,(1),servico de atencao a saude das pessoas ostomizadas
+1156,servico_especializado,tipo_servico_especializado,110,(1),servico de atencao a saude reprodutiva
+1157,servico_especializado,tipo_servico_especializado,123,(1),servico de dispensacao de orteses proteses e materiais espe
+1158,servico_especializado,tipo_servico_especializado,120,(1),servico de diagnostico por anatomia patologica eou citopato
+1159,servico_especializado,tipo_servico_especializado,165,(1),atencao as pessoas em situacao de violencia sexual
+1160,servico_especializado,tipo_servico_especializado,144,(1),servico posto de coleta de materiais  biologicos
+1161,servico_especializado,tipo_servico_especializado,103,(1),servico de atendimento movel de urgencias
+1162,servico_especializado,tipo_servico_especializado,128,(1),servico de hemoterapia
+1163,servico_especializado,tipo_servico_especializado,154,(1),servico de banco de tecidos
+1164,servico_especializado,tipo_servico_especializado,109,(1),servico de atencao a saude dos adolescentes em conflito com
+1165,servico_especializado,tipo_servico_especializado,119,(1),servico de controle de tabagismo
+1166,servico_especializado,tipo_servico_especializado,116,(1),servico de atencao cardiovascular / cardiologia
+1167,servico_especializado,tipo_servico_especializado,142,(1),servico de endoscopia
+1168,servico_especializado,tipo_servico_especializado,160,(1),teleconsultoria
+1169,servico_especializado,tipo_servico_especializado,140,(1),servico de urgencia e emergencia
+1170,servico_especializado,tipo_servico_especializado,101,(1),estrategia de saude da familia
+1171,servico_especializado,tipo_servico_especializado,141,(1),servico de vigilancia em saude
+1172,servico_especializado,tipo_servico_especializado,149,(1),transplante
+1173,servico_especializado,tipo_servico_especializado,150,(1),cirurgia vascular
+1174,servico_especializado,tipo_servico_especializado,167,(1),atendimento itinerante de assistencia e ensino em saude
+1175,servico_especializado,tipo_servico_especializado,170,(1),comissoes e comites
+1176,servico_especializado,tipo_servico_especializado,168,(1),atencao a pessoas com doencas raras
+1177,servico_especializado,tipo_servico_especializado,125,(1),servico de farmacia
+1178,servico_especializado,tipo_servico_especializado,130,(1),atencao a doenca renal cronica
+1179,servico_especializado,tipo_servico_especializado,145,(1),servico de diagnostico de laboratorio clinico
+1180,servico_especializado,tipo_servico_especializado,157,(1),servico de laboratorio de protese dentaria
+1181,servico_especializado,tipo_servico_especializado,133,(1),servico de pneumologia
+1182,servico_especializado,tipo_servico_especializado,151,(1),medicina nuclear

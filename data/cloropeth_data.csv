@@ -1,0 +1,183 @@
+,id_municipio,quantidade_total,nome_municipio
+0,2600054,292,Abreu e Lima
+1,2600104,187,Afogados da Ingazeira
+2,2600203,55,Afrânio
+3,2600302,108,Agrestina
+4,2600401,55,Água Preta
+5,2600500,33,Águas Belas
+6,2600609,24,Alagoinha
+7,2600708,26,Aliança
+8,2600807,24,Altinho
+9,2600906,31,Amaraji
+10,2601003,12,Angelim
+11,2601052,8,Araçoiaba
+12,2601102,306,Araripina
+13,2601201,220,Arcoverde
+14,2601300,17,Barra de Guabiraba
+15,2601409,108,Barreiros
+16,2601508,9,Belém de Maria
+17,2601607,43,Belém de São Francisco
+18,2601706,87,Belo Jardim
+19,2601805,24,Betânia
+20,2601904,235,Bezerros
+21,2602001,29,Bodocó
+22,2602100,42,Bom Conselho
+23,2602209,48,Bom Jardim
+24,2602308,52,Bonito
+25,2602407,16,Brejão
+26,2602506,7,Brejinho
+27,2602605,113,Brejo da Madre de Deus
+28,2602704,17,Buenos Aires
+29,2602803,67,Buíque
+30,2602902,417,Cabo de Santo Agostinho
+31,2603009,79,Cabrobó
+32,2603108,26,Cachoeirinha
+33,2603207,50,Caetés
+34,2603306,11,Calçado
+35,2603405,17,Calumbi
+36,2603454,134,Camaragibe
+37,2603504,15,Camocim de São Félix
+38,2603603,12,Camutanga
+39,2603702,32,Canhotinho
+40,2603801,18,Capoeiras
+41,2603900,15,Carnaíba
+42,2603926,11,Carnaubeira da Penha
+43,2604007,116,Carpina
+44,2604106,1210,Caruaru
+45,2604155,35,Casinhas
+46,2604205,27,Catende
+47,2604304,18,Cedro
+48,2604403,16,Chã de Alegria
+49,2604502,42,Chã Grande
+50,2604601,35,Condado
+51,2604700,29,Correntes
+52,2604809,44,Cortês
+53,2604908,21,Cumaru
+54,2605004,20,Cupira
+55,2605103,79,Custódia
+56,2605152,27,Dormentes
+57,2605202,91,Escada
+58,2605301,32,Exu
+59,2605400,17,Feira Nova
+60,2605459,17,Fernando de Noronha
+61,2605608,28,Flores
+62,2605707,75,Floresta
+63,2605806,11,Frei Miguelinho
+64,2605905,23,Gameleira
+65,2606002,416,Garanhuns
+66,2606101,23,Glória do Goitá
+67,2606200,176,Goiana
+68,2606309,23,Granito
+69,2606408,116,Gravatá
+70,2606507,26,Iati
+71,2606606,26,Ibimirim
+72,2606705,20,Ibirajuba
+73,2606804,309,Igarassu
+74,2606903,16,Iguaraci
+75,2607000,14,Inajá
+76,2607109,4,Ingazeira
+77,2607208,53,Ipojuca
+78,2607307,45,Ipubi
+79,2607505,51,Itaíba
+80,2607604,14,Ilha de Itamaracá
+81,2607653,42,Itambé
+82,2607703,25,Itapetim
+83,2607752,6,Itapissuma
+84,2607802,14,Itaquitinga
+85,2607901,958,Jaboatão dos Guararapes
+86,2607950,32,Jaqueira
+87,2608008,19,Jataúba
+88,2608057,23,Jatobá
+89,2608107,33,João Alfredo
+90,2608206,14,Joaquim Nabuco
+91,2608255,6,Jucati
+92,2608305,17,Jupi
+93,2608404,27,Jurema
+94,2608453,22,Lagoa do Carro
+95,2608503,27,Lagoa do Itaenga
+96,2608602,45,Lagoa do Ouro
+97,2608701,17,Lagoa dos Gatos
+98,2608750,35,Lagoa Grande
+99,2608800,44,Lajedo
+100,2608909,159,Limoeiro
+101,2609006,56,Macaparana
+102,2609105,15,Machados
+103,2609154,27,Manari
+104,2609204,13,Maraial
+105,2609303,17,Mirandiba
+106,2609402,199,Moreno
+107,2609501,41,Nazaré da Mata
+108,2609600,921,Olinda
+109,2609709,32,Orobó
+110,2609808,30,Orocó
+111,2609907,92,Ouricuri
+112,2610004,354,Palmares
+113,2610103,14,Palmeirina
+114,2610202,26,Panelas
+115,2610301,27,Paranatama
+116,2610400,28,Parnamirim
+117,2610509,25,Passira
+118,2610608,137,Paudalho
+119,2610707,581,Paulista
+120,2610806,22,Pedra
+121,2610905,162,Pesqueira
+122,2611002,130,Petrolândia
+123,2611101,984,Petrolina
+124,2611200,23,Poção
+125,2611309,36,Pombos
+126,2611408,4,Primavera
+127,2611507,19,Quipapá
+128,2611533,13,Quixaba
+129,2611606,11369,Recife
+130,2611705,39,Riacho das Almas
+131,2611804,38,Ribeirão
+132,2611903,16,Rio Formoso
+133,2612000,30,Sairé
+134,2612109,10,Salgadinho
+135,2612208,210,Salgueiro
+136,2612307,30,Saloá
+137,2612406,14,Sanharó
+138,2612455,33,Santa Cruz
+139,2612471,17,Santa Cruz da Baixa Verde
+140,2612505,84,Santa Cruz do Capibaribe
+141,2612554,18,Santa Filomena
+142,2612604,33,Santa Maria da Boa Vista
+143,2612703,12,Santa Maria do Cambucá
+144,2612802,19,Santa Terezinha
+145,2612901,28,São Benedito do Sul
+146,2613008,51,São Bento do Una
+147,2613107,30,São Caitano
+148,2613206,29,São João
+149,2613305,34,São Joaquim do Monte
+150,2613404,26,São José da Coroa Grande
+151,2613503,33,São José do Belmonte
+152,2613602,90,São José do Egito
+153,2613701,175,São Lourenço da Mata
+154,2613800,29,São Vicente Ferrer
+155,2613909,588,Serra Talhada
+156,2614006,32,Serrita
+157,2614105,73,Sertânia
+158,2614204,26,Sirinhaém
+159,2614303,20,Moreilândia
+160,2614402,13,Solidão
+161,2614501,203,Surubim
+162,2614600,55,Tabira
+163,2614808,21,Tacaratu
+164,2614857,30,Tamandaré
+165,2615003,56,Taquaritinga do Norte
+166,2615102,14,Terezinha
+167,2615201,11,Terra Nova
+168,2615300,147,Timbaúba
+169,2615409,44,Toritama
+170,2615508,11,Tracunhaém
+171,2615607,74,Trindade
+172,2615706,24,Triunfo
+173,2615805,21,Tupanatinga
+174,2615904,35,Tuparetama
+175,2616001,24,Venturosa
+176,2616100,15,Verdejante
+177,2616183,4,Vertente do Lério
+178,2616209,64,Vertentes
+179,2616308,40,Vicência
+180,2616407,478,Vitória de Santo Antão
+181,2616506,14,Xexéu
